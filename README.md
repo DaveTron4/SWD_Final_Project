@@ -89,7 +89,11 @@ The system focuses on enabling data entry, updates, basic search, and the genera
 | PT-2 | Search Employee by name/SSN/ID | [Name] | ✅ |
 | PT-3 | Update Employee Info | [Name] | ✅ |
 | PT-4 | Apply Salary Increase (based on % + range) | [Name] | ✅ |
-| PT-5 | Generate Reports (3 Types) | [Name] | ✅ |
+| UML-1 | Use Case Diagram - System | [Name] | ✅ |
+| UML-2 | Use Case Diagram - Reporting | David Salas C. | ✅ |
+| UML-3 | Class Diagram | [Name] | ✅ |
+| UML-4 | Sequence Diagram - System | [Name] | ✅ |
+| UML-5 | Sequence Diagram - Reporting | [Name] | ✅ |
 
 ---
 
