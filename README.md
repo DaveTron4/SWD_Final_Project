@@ -3,7 +3,7 @@
 ## 👥 Team Name: [Your Team Name]
 **Team Members:**
 - David Salas C.
-- [Name 2]
+- Chirag Dwivedi
 - [Name 3]
 - [Name 4]
 - [Name 5]
