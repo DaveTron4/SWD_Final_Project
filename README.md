@@ -3,7 +3,7 @@
 ## 👥 Team Name: [Your Team Name]
 **Team Members:**
 - David Salas C.
-- [Name 2]
+- Herman Acosta
 - [Name 3]
 - [Name 4]
 - [Name 5]
