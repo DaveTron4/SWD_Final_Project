@@ -1,0 +1,1780 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   contentstyletype="text/css"
+   height="1642px"
+   preserveAspectRatio="none"
+   style="width:2062px;height:1642px;background:#FFFFFF;"
+   version="1.1"
+   viewBox="0 0 2062 1642"
+   width="2062px"
+   zoomAndPan="magnify"
+   id="svg114"
+   sodipodi:docname="chatuml-diagram.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview114"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.026608149"
+     inkscape:cx="-1065500.6"
+     inkscape:cy="-1481012.4"
+     inkscape:window-width="1800"
+     inkscape:window-height="1021"
+     inkscape:window-x="0"
+     inkscape:window-y="44"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g114" />
+  <defs
+     id="defs1" />
+  <g
+     id="g114">
+    <rect
+       fill="#FFFFFF"
+       height="239.0625"
+       style="stroke:#181818;stroke-width:1.0;"
+       width="10"
+       x="347.019"
+       y="187.125"
+       id="rect1" />
+    <rect
+       fill="#FFFFFF"
+       height="239.0625"
+       style="stroke:#181818;stroke-width:1.0;"
+       width="10"
+       x="347.019"
+       y="646.9219"
+       id="rect2" />
+    <rect
+       fill="#FFFFFF"
+       height="239.0625"
+       style="stroke:#181818;stroke-width:1.0;"
+       width="10"
+       x="347.019"
+       y="1106.7188"
+       id="rect3" />
+    <rect
+       fill="#FFFFFF"
+       height="180.7969"
+       style="stroke:#181818;stroke-width:1.0;"
+       width="10"
+       x="597.4209"
+       y="216.2578"
+       id="rect4" />
+    <rect
+       fill="#FFFFFF"
+       height="87.3984"
+       style="stroke:#181818;stroke-width:1.0;"
+       width="10"
+       x="597.4209"
+       y="479.4531"
+       id="rect5" />
+    <rect
+       fill="#FFFFFF"
+       height="180.7969"
+       style="stroke:#181818;stroke-width:1.0;"
+       width="10"
+       x="597.4209"
+       y="676.0547"
+       id="rect6" />
+    <rect
+       fill="#FFFFFF"
+       height="87.3984"
+       style="stroke:#181818;stroke-width:1.0;"
+       width="10"
+       x="597.4209"
+       y="939.25"
+       id="rect7" />
+    <rect
+       fill="#FFFFFF"
+       height="180.7969"
+       style="stroke:#181818;stroke-width:1.0;"
+       width="10"
+       x="597.4209"
+       y="1135.8516"
+       id="rect8" />
+    <rect
+       fill="#FFFFFF"
+       height="87.3984"
+       style="stroke:#181818;stroke-width:1.0;"
+       width="10"
+       x="597.4209"
+       y="1399.0469"
+       id="rect9" />
+    <rect
+       fill="#FFFFFF"
+       height="122.5313"
+       style="stroke:#181818;stroke-width:1.0;"
+       width="10"
+       x="793.8086"
+       y="245.3906"
+       id="rect10" />
+    <rect
+       fill="#FFFFFF"
+       height="122.5313"
+       style="stroke:#181818;stroke-width:1.0;"
+       width="10"
+       x="793.8086"
+       y="705.1875"
+       id="rect11" />
+    <rect
+       fill="#FFFFFF"
+       height="122.5313"
+       style="stroke:#181818;stroke-width:1.0;"
+       width="10"
+       x="793.8086"
+       y="1164.9844"
+       id="rect12" />
+    <rect
+       fill="#FFFFFF"
+       height="64.2656"
+       style="stroke:#181818;stroke-width:1.0;"
+       width="10"
+       x="1194.2925"
+       y="274.5234"
+       id="rect13" />
+    <rect
+       fill="#FFFFFF"
+       height="64.2656"
+       style="stroke:#181818;stroke-width:1.0;"
+       width="10"
+       x="1194.2925"
+       y="734.3203"
+       id="rect14" />
+    <rect
+       fill="#FFFFFF"
+       height="64.2656"
+       style="stroke:#181818;stroke-width:1.0;"
+       width="10"
+       x="1194.2925"
+       y="1194.1172"
+       id="rect15" />
+    <rect
+       fill="#FFFFFF"
+       height="29.1328"
+       style="stroke:#181818;stroke-width:1.0;"
+       width="10"
+       x="1293.6372"
+       y="508.5859"
+       id="rect16" />
+    <rect
+       fill="#FFFFFF"
+       height="29.1328"
+       style="stroke:#181818;stroke-width:1.0;"
+       width="10"
+       x="1293.6372"
+       y="968.3828"
+       id="rect17" />
+    <rect
+       fill="#FFFFFF"
+       height="29.1328"
+       style="stroke:#181818;stroke-width:1.0;"
+       width="10"
+       x="1293.6372"
+       y="1428.1797"
+       id="rect18" />
+    <rect
+       fill="none"
+       height="1381.7188"
+       style="stroke:#000000;stroke-width:1.5;"
+       width="1977.9121"
+       x="77.7744"
+       y="148.8594"
+       id="rect19" />
+    <rect
+       fill="none"
+       height="162.7969"
+       style="stroke:#000000;stroke-width:1.5;"
+       width="1266.1885"
+       x="87.7744"
+       y="441.1875"
+       id="rect20" />
+    <rect
+       fill="none"
+       height="162.7969"
+       style="stroke:#000000;stroke-width:1.5;"
+       width="1266.1885"
+       x="87.7744"
+       y="900.9844"
+       id="rect21" />
+    <rect
+       fill="none"
+       height="162.7969"
+       style="stroke:#000000;stroke-width:1.5;"
+       width="1266.1885"
+       x="87.7744"
+       y="1360.7813"
+       id="rect22" />
+    <line
+       style="stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;"
+       x1="46"
+       x2="46"
+       y1="83.5938"
+       y2="1547.5781"
+       id="line22" />
+    <line
+       style="stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;"
+       x1="113.7744"
+       x2="113.7744"
+       y1="83.5938"
+       y2="1547.5781"
+       id="line23" />
+    <line
+       style="stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;"
+       x1="351.7222"
+       x2="351.7222"
+       y1="83.5938"
+       y2="1547.5781"
+       id="line24" />
+    <line
+       style="stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;"
+       x1="602.0313"
+       x2="602.0313"
+       y1="83.5938"
+       y2="1547.5781"
+       id="line25" />
+    <line
+       style="stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;"
+       x1="798.6011"
+       x2="798.6011"
+       y1="83.5938"
+       y2="1547.5781"
+       id="line26" />
+    <line
+       style="stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;"
+       x1="1199.2734"
+       x2="1199.2734"
+       y1="83.5938"
+       y2="1547.5781"
+       id="line27" />
+    <line
+       style="stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;"
+       x1="1298.3115"
+       x2="1298.3115"
+       y1="83.5938"
+       y2="1547.5781"
+       id="line28" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14"
+       lengthAdjust="spacing"
+       textLength="76.7744"
+       x="5"
+       y="80.292"
+       id="text28">AdminUser</text>
+    <ellipse
+       cx="46.3872"
+       cy="15.7969"
+       fill="#E2E2F0"
+       rx="8"
+       ry="8"
+       style="stroke:#181818;stroke-width:0.5;"
+       id="ellipse28" />
+    <path
+       d="M46.3872,23.7969 L46.3872,50.7969 M33.3872,31.7969 L59.3872,31.7969 M46.3872,50.7969 L33.3872,65.7969 M46.3872,50.7969 L59.3872,65.7969 "
+       fill="none"
+       style="stroke:#181818;stroke-width:0.5;"
+       id="path28" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14"
+       lengthAdjust="spacing"
+       textLength="76.7744"
+       x="5"
+       y="1559.5732"
+       id="text29">AdminUser</text>
+    <ellipse
+       cx="46.3872"
+       cy="1571.375"
+       fill="#E2E2F0"
+       rx="8"
+       ry="8"
+       style="stroke:#181818;stroke-width:0.5;"
+       id="ellipse29" />
+    <path
+       d="M46.3872,1579.375 L46.3872,1606.375 M33.3872,1587.375 L59.3872,1587.375 M46.3872,1606.375 L33.3872,1621.375 M46.3872,1606.375 L59.3872,1621.375 "
+       fill="none"
+       style="stroke:#181818;stroke-width:0.5;"
+       id="path29" />
+    <rect
+       fill="#E2E2F0"
+       height="30.2969"
+       rx="2.5"
+       ry="2.5"
+       style="stroke:#181818;stroke-width:0.5;"
+       width="33.8379"
+       x="97.7744"
+       y="52.2969"
+       id="rect29" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14"
+       lengthAdjust="spacing"
+       textLength="19.8379"
+       x="104.7744"
+       y="72.292"
+       id="text30">UX</text>
+    <rect
+       fill="#E2E2F0"
+       height="30.2969"
+       rx="2.5"
+       ry="2.5"
+       style="stroke:#181818;stroke-width:0.5;"
+       width="33.8379"
+       x="97.7744"
+       y="1546.5781"
+       id="rect30" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14"
+       lengthAdjust="spacing"
+       textLength="19.8379"
+       x="104.7744"
+       y="1566.5732"
+       id="text31">UX</text>
+    <rect
+       fill="#E2E2F0"
+       height="30.2969"
+       rx="2.5"
+       ry="2.5"
+       style="stroke:#181818;stroke-width:0.5;"
+       width="116.5938"
+       x="293.7222"
+       y="52.2969"
+       id="rect31" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="102.5938"
+       x="300.7222"
+       y="72.292"
+       id="text32"
+       style="font-size:14px;font-family:sans-serif;fill:#000000"><tspan
+         sodipodi:role="line"
+         id="tspan114"
+         x="300.7222"
+         y="72.292"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">EmployeeController</tspan></text>
+    <rect
+       fill="#E2E2F0"
+       height="30.2969"
+       rx="2.5"
+       ry="2.5"
+       style="stroke:#181818;stroke-width:0.5;"
+       width="116.5938"
+       x="293.7222"
+       y="1546.5781"
+       id="rect32" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="102.5938"
+       x="300.7222"
+       y="1566.5732"
+       id="text33"
+       style="font-size:14px;font-family:sans-serif;fill:#000000"><tspan
+         sodipodi:role="line"
+         id="tspan115"
+         x="300.7222"
+         y="1566.5732"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">EmployeeController</tspan></text>
+    <rect
+       fill="#E2E2F0"
+       height="30.2969"
+       rx="2.5"
+       ry="2.5"
+       style="stroke:#181818;stroke-width:0.5;"
+       width="112.7793"
+       x="546.0313"
+       y="52.2969"
+       id="rect33" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14"
+       lengthAdjust="spacing"
+       textLength="98.7793"
+       x="553.0313"
+       y="72.292"
+       id="text34">ReportService</text>
+    <rect
+       fill="#E2E2F0"
+       height="30.2969"
+       rx="2.5"
+       ry="2.5"
+       style="stroke:#181818;stroke-width:0.5;"
+       width="112.7793"
+       x="546.0313"
+       y="1546.5781"
+       id="rect34" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14"
+       lengthAdjust="spacing"
+       textLength="98.7793"
+       x="553.0313"
+       y="1566.5732"
+       id="text35">ReportService</text>
+    <rect
+       fill="#E2E2F0"
+       height="30.2969"
+       rx="2.5"
+       ry="2.5"
+       style="stroke:#181818;stroke-width:0.5;"
+       width="92.415"
+       x="752.6011"
+       y="52.2969"
+       id="rect35" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14"
+       lengthAdjust="spacing"
+       textLength="78.415"
+       x="759.6011"
+       y="72.292"
+       id="text36">ReportDAO</text>
+    <rect
+       fill="#E2E2F0"
+       height="30.2969"
+       rx="2.5"
+       ry="2.5"
+       style="stroke:#181818;stroke-width:0.5;"
+       width="92.415"
+       x="752.6011"
+       y="1546.5781"
+       id="rect36" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14"
+       lengthAdjust="spacing"
+       textLength="78.415"
+       x="759.6011"
+       y="1566.5732"
+       id="text37">ReportDAO</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14"
+       font-style="italic"
+       lengthAdjust="spacing"
+       textLength="82.0381"
+       x="1155.2734"
+       y="63.9951"
+       id="text38">«database»</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14"
+       lengthAdjust="spacing"
+       textLength="68.4551"
+       x="1162.0649"
+       y="80.292"
+       id="text39">MySQLDB</text>
+    <path
+       d="M1181.2925,15 C1181.2925,5 1199.2925,5 1199.2925,5 C1199.2925,5 1217.2925,5 1217.2925,15 L1217.2925,41 C1217.2925,51 1199.2925,51 1199.2925,51 C1199.2925,51 1181.2925,51 1181.2925,41 L1181.2925,15 "
+       fill="#E2E2F0"
+       style="stroke:#181818;stroke-width:1.5;"
+       id="path39" />
+    <path
+       d="M1181.2925,15 C1181.2925,25 1199.2925,25 1199.2925,25 C1199.2925,25 1217.2925,25 1217.2925,15 "
+       fill="none"
+       style="stroke:#181818;stroke-width:1.5;"
+       id="path40" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14"
+       font-style="italic"
+       lengthAdjust="spacing"
+       textLength="82.0381"
+       x="1155.2734"
+       y="1559.5732"
+       id="text40">«database»</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14"
+       lengthAdjust="spacing"
+       textLength="68.4551"
+       x="1162.0649"
+       y="1575.8701"
+       id="text41">MySQLDB</text>
+    <path
+       d="M1181.2925,1589.1719 C1181.2925,1579.1719 1199.2925,1579.1719 1199.2925,1579.1719 C1199.2925,1579.1719 1217.2925,1579.1719 1217.2925,1589.1719 L1217.2925,1615.1719 C1217.2925,1625.1719 1199.2925,1625.1719 1199.2925,1625.1719 C1199.2925,1625.1719 1181.2925,1625.1719 1181.2925,1615.1719 L1181.2925,1589.1719 "
+       fill="#E2E2F0"
+       style="stroke:#181818;stroke-width:1.5;"
+       id="path41" />
+    <path
+       d="M1181.2925,1589.1719 C1181.2925,1599.1719 1199.2925,1599.1719 1199.2925,1599.1719 C1199.2925,1599.1719 1217.2925,1599.1719 1217.2925,1589.1719 "
+       fill="none"
+       style="stroke:#181818;stroke-width:1.5;"
+       id="path42" />
+    <rect
+       fill="#E2E2F0"
+       height="30.2969"
+       rx="2.5"
+       ry="2.5"
+       style="stroke:#181818;stroke-width:0.5;"
+       width="90.6514"
+       x="1253.3115"
+       y="52.2969"
+       id="rect42" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="76.651398"
+       x="1260.3115"
+       y="72.292"
+       id="text42">UFileSystem</text>
+    <rect
+       fill="#E2E2F0"
+       height="30.2969"
+       rx="2.5"
+       ry="2.5"
+       style="stroke:#181818;stroke-width:0.5;"
+       width="90.6514"
+       x="1253.3115"
+       y="1546.5781"
+       id="rect43" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14"
+       lengthAdjust="spacing"
+       textLength="76.6514"
+       x="1260.3115"
+       y="1566.5732"
+       id="text43">FileSystem</text>
+    <rect
+       fill="#FFFFFF"
+       height="239.0625"
+       style="stroke:#181818;stroke-width:1.0;"
+       width="10"
+       x="347.019"
+       y="187.125"
+       id="rect44" />
+    <rect
+       fill="#FFFFFF"
+       height="239.0625"
+       style="stroke:#181818;stroke-width:1.0;"
+       width="10"
+       x="347.019"
+       y="646.9219"
+       id="rect45" />
+    <rect
+       fill="#FFFFFF"
+       height="239.0625"
+       style="stroke:#181818;stroke-width:1.0;"
+       width="10"
+       x="347.019"
+       y="1106.7188"
+       id="rect46" />
+    <rect
+       fill="#FFFFFF"
+       height="180.7969"
+       style="stroke:#181818;stroke-width:1.0;"
+       width="10"
+       x="597.4209"
+       y="216.2578"
+       id="rect47" />
+    <rect
+       fill="#FFFFFF"
+       height="87.3984"
+       style="stroke:#181818;stroke-width:1.0;"
+       width="10"
+       x="597.4209"
+       y="479.4531"
+       id="rect48" />
+    <rect
+       fill="#FFFFFF"
+       height="180.7969"
+       style="stroke:#181818;stroke-width:1.0;"
+       width="10"
+       x="597.4209"
+       y="676.0547"
+       id="rect49" />
+    <rect
+       fill="#FFFFFF"
+       height="87.3984"
+       style="stroke:#181818;stroke-width:1.0;"
+       width="10"
+       x="597.4209"
+       y="939.25"
+       id="rect50" />
+    <rect
+       fill="#FFFFFF"
+       height="180.7969"
+       style="stroke:#181818;stroke-width:1.0;"
+       width="10"
+       x="597.4209"
+       y="1135.8516"
+       id="rect51" />
+    <rect
+       fill="#FFFFFF"
+       height="87.3984"
+       style="stroke:#181818;stroke-width:1.0;"
+       width="10"
+       x="597.4209"
+       y="1399.0469"
+       id="rect52" />
+    <rect
+       fill="#FFFFFF"
+       height="122.5313"
+       style="stroke:#181818;stroke-width:1.0;"
+       width="10"
+       x="793.8086"
+       y="245.3906"
+       id="rect53" />
+    <rect
+       fill="#FFFFFF"
+       height="122.5313"
+       style="stroke:#181818;stroke-width:1.0;"
+       width="10"
+       x="793.8086"
+       y="705.1875"
+       id="rect54" />
+    <rect
+       fill="#FFFFFF"
+       height="122.5313"
+       style="stroke:#181818;stroke-width:1.0;"
+       width="10"
+       x="793.8086"
+       y="1164.9844"
+       id="rect55" />
+    <rect
+       fill="#FFFFFF"
+       height="64.2656"
+       style="stroke:#181818;stroke-width:1.0;"
+       width="10"
+       x="1194.2925"
+       y="274.5234"
+       id="rect56" />
+    <rect
+       fill="#FFFFFF"
+       height="64.2656"
+       style="stroke:#181818;stroke-width:1.0;"
+       width="10"
+       x="1194.2925"
+       y="734.3203"
+       id="rect57" />
+    <rect
+       fill="#FFFFFF"
+       height="64.2656"
+       style="stroke:#181818;stroke-width:1.0;"
+       width="10"
+       x="1194.2925"
+       y="1194.1172"
+       id="rect58" />
+    <rect
+       fill="#FFFFFF"
+       height="29.1328"
+       style="stroke:#181818;stroke-width:1.0;"
+       width="10"
+       x="1293.6372"
+       y="508.5859"
+       id="rect59" />
+    <rect
+       fill="#FFFFFF"
+       height="29.1328"
+       style="stroke:#181818;stroke-width:1.0;"
+       width="10"
+       x="1293.6372"
+       y="968.3828"
+       id="rect60" />
+    <rect
+       fill="#FFFFFF"
+       height="29.1328"
+       style="stroke:#181818;stroke-width:1.0;"
+       width="10"
+       x="1293.6372"
+       y="1428.1797"
+       id="rect61" />
+    <polygon
+       fill="#FFAAAA"
+       points="16,98.5938,1229,98.5938,1239,117.5938,1229,136.5938,16,136.5938,6,117.5938,16,98.5938"
+       style="stroke:#181818;stroke-width:0.5;"
+       id="polygon61" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="66.333"
+       x="507.3569"
+       y="114.6606"
+       id="text61">«no-auth»</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="230.5977"
+       x="507.3569"
+       y="129.7935"
+       id="text62">System has no login/authentication</text>
+    <path
+       d="M77.7744,148.8594 L142.2173,148.8594 L142.2173,155.9922 L132.2173,165.9922 L77.7744,165.9922 L77.7744,148.8594 "
+       fill="#EEEEEE"
+       style="stroke:#000000;stroke-width:1.5;"
+       id="path62" />
+    <rect
+       fill="none"
+       height="1381.7188"
+       style="stroke:#000000;stroke-width:1.5;"
+       width="1977.9121"
+       x="77.7744"
+       y="148.8594"
+       id="rect62" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="19.4429"
+       x="92.7744"
+       y="161.9263"
+       id="text63">alt</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="104.4946"
+       x="157.2173"
+       y="161.0698"
+       id="text64">[EmpPayHistory]</text>
+    <polygon
+       fill="#181818"
+       points="335.019,183.125,345.019,187.125,335.019,191.125,339.019,187.125"
+       style="stroke:#181818;stroke-width:1.0;"
+       id="polygon64" />
+    <line
+       style="stroke:#181818;stroke-width:1.0;"
+       x1="114.6934"
+       x2="341.019"
+       y1="187.125"
+       y2="187.125"
+       id="line64" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="160.1958"
+       x="121.6934"
+       y="182.0591"
+       id="text65">requestReport(&quot;history&quot;)</text>
+    <polygon
+       fill="#181818"
+       points="585.4209,212.2578,595.4209,216.2578,585.4209,220.2578,589.4209,216.2578"
+       style="stroke:#181818;stroke-width:1.0;"
+       id="polygon65" />
+    <line
+       style="stroke:#181818;stroke-width:1.0;"
+       x1="357.019"
+       x2="591.4209"
+       y1="216.2578"
+       y2="216.2578"
+       id="line65" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="130.3682"
+       x="364.019"
+       y="211.1919"
+       id="text66">getEmpPayHistory()</text>
+    <polygon
+       fill="#181818"
+       points="781.8086,241.3906,791.8086,245.3906,781.8086,249.3906,785.8086,245.3906"
+       style="stroke:#181818;stroke-width:1.0;"
+       id="polygon66" />
+    <line
+       style="stroke:#181818;stroke-width:1.0;"
+       x1="607.4209"
+       x2="787.8086"
+       y1="245.3906"
+       y2="245.3906"
+       id="line66" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="142.0796"
+       x="614.4209"
+       y="240.3247"
+       id="text67">fetchEmpPayHistory()</text>
+    <polygon
+       fill="#181818"
+       points="1182.2925,270.5234,1192.2925,274.5234,1182.2925,278.5234,1186.2925,274.5234"
+       style="stroke:#181818;stroke-width:1.0;"
+       id="polygon67" />
+    <line
+       style="stroke:#181818;stroke-width:1.0;"
+       x1="803.8086"
+       x2="1188.2925"
+       y1="274.5234"
+       y2="274.5234"
+       id="line67" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="310.0894"
+       x="810.8086"
+       y="269.4575"
+       id="text68">SELECT e.*, p.* FROM employee e JOIN pay p ...</text>
+    <path
+       d="M1209,287.5234 L1209,312.5234 L1858,312.5234 L1858,297.5234 L1848,287.5234 L1209,287.5234 "
+       fill="#FFFF88"
+       style="stroke:#181818;stroke-width:0.5;"
+       id="path68" />
+    <path
+       d="M1848,287.5234 L1848,297.5234 L1858,297.5234 L1848,287.5234 "
+       fill="#FFFF88"
+       style="stroke:#181818;stroke-width:0.5;"
+       id="path69" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="628.3354"
+       x="1215"
+       y="304.5903"
+       id="text69">Sample SQL:\nSELECT e.*, p.* FROM employee e\nJOIN pay p ON e.empid = p.empid\nWHERE ...</text>
+    <polygon
+       fill="#181818"
+       points="814.8086,334.7891,804.8086,338.7891,814.8086,342.7891,810.8086,338.7891"
+       style="stroke:#181818;stroke-width:1.0;"
+       id="polygon69" />
+    <line
+       style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;"
+       x1="808.8086"
+       x2="1198.2925"
+       y1="338.7891"
+       y2="338.7891"
+       id="line69" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="142.4414"
+       x="820.8086"
+       y="333.7231"
+       id="text70">List&lt;PayHistoryDTO&gt;</text>
+    <polygon
+       fill="#181818"
+       points="618.4209,363.9219,608.4209,367.9219,618.4209,371.9219,614.4209,367.9219"
+       style="stroke:#181818;stroke-width:1.0;"
+       id="polygon70" />
+    <line
+       style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;"
+       x1="612.4209"
+       x2="797.8086"
+       y1="367.9219"
+       y2="367.9219"
+       id="line70" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="142.4414"
+       x="624.4209"
+       y="362.856"
+       id="text71">List&lt;PayHistoryDTO&gt;</text>
+    <polygon
+       fill="#181818"
+       points="368.019,393.0547,358.019,397.0547,368.019,401.0547,364.019,397.0547"
+       style="stroke:#181818;stroke-width:1.0;"
+       id="polygon71" />
+    <line
+       style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;"
+       x1="362.019"
+       x2="601.4209"
+       y1="397.0547"
+       y2="397.0547"
+       id="line71" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="142.4414"
+       x="374.019"
+       y="391.9888"
+       id="text72">List&lt;PayHistoryDTO&gt;</text>
+    <polygon
+       fill="#181818"
+       points="125.6934,422.1875,115.6934,426.1875,125.6934,430.1875,121.6934,426.1875"
+       style="stroke:#181818;stroke-width:1.0;"
+       id="polygon72" />
+    <line
+       style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;"
+       x1="119.6934"
+       x2="351.019"
+       y1="426.1875"
+       y2="426.1875"
+       id="line72" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="142.4414"
+       x="131.6934"
+       y="421.1216"
+       id="text73">List&lt;PayHistoryDTO&gt;</text>
+    <path
+       d="M87.7744,441.1875 L157.2256,441.1875 L157.2256,448.3203 L147.2256,458.3203 L87.7744,458.3203 L87.7744,441.1875 "
+       fill="#EEEEEE"
+       style="stroke:#000000;stroke-width:1.5;"
+       id="path73" />
+    <rect
+       fill="none"
+       height="162.7969"
+       style="stroke:#000000;stroke-width:1.5;"
+       width="1266.1885"
+       x="87.7744"
+       y="441.1875"
+       id="rect73" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="24.4512"
+       x="102.7744"
+       y="454.2544"
+       id="text74">opt</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="116.9609"
+       x="172.2256"
+       y="453.3979"
+       id="text75">[exportRequested]</text>
+    <polygon
+       fill="#181818"
+       points="585.4209,475.4531,595.4209,479.4531,585.4209,483.4531,589.4209,479.4531"
+       style="stroke:#181818;stroke-width:1.0;"
+       id="polygon75" />
+    <line
+       style="stroke:#181818;stroke-width:1.0;"
+       x1="352.019"
+       x2="591.4209"
+       y1="479.4531"
+       y2="479.4531"
+       id="line75" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="221.146"
+       x="359.019"
+       y="474.3872"
+       id="text76">exportCSV(List&lt;PayHistoryDTO&gt;)</text>
+    <polygon
+       fill="#181818"
+       points="1281.6372,504.5859,1291.6372,508.5859,1281.6372,512.5859,1285.6372,508.5859"
+       style="stroke:#181818;stroke-width:1.0;"
+       id="polygon76" />
+    <line
+       style="stroke:#181818;stroke-width:1.0;"
+       x1="607.4209"
+       x2="1287.6372"
+       y1="508.5859"
+       y2="508.5859"
+       id="line76" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="185.269"
+       x="614.4209"
+       y="503.52"
+       id="text77">write(List&lt;PayHistoryDTO&gt;)</text>
+    <polygon
+       fill="#181818"
+       points="618.4209,533.7188,608.4209,537.7188,618.4209,541.7188,614.4209,537.7188"
+       style="stroke:#181818;stroke-width:1.0;"
+       id="polygon77" />
+    <line
+       style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;"
+       x1="612.4209"
+       x2="1297.6372"
+       y1="537.7188"
+       y2="537.7188"
+       id="line77" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="48.9404"
+       x="624.4209"
+       y="532.6528"
+       id="text78">filePath</text>
+    <polygon
+       fill="#181818"
+       points="363.019,562.8516,353.019,566.8516,363.019,570.8516,359.019,566.8516"
+       style="stroke:#181818;stroke-width:1.0;"
+       id="polygon78" />
+    <line
+       style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;"
+       x1="357.019"
+       x2="601.4209"
+       y1="566.8516"
+       y2="566.8516"
+       id="line78" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="48.9404"
+       x="369.019"
+       y="561.7856"
+       id="text79">filePath</text>
+    <polygon
+       fill="#181818"
+       points="125.6934,591.9844,115.6934,595.9844,125.6934,599.9844,121.6934,595.9844"
+       style="stroke:#181818;stroke-width:1.0;"
+       id="polygon79" />
+    <line
+       style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;"
+       x1="119.6934"
+       x2="351.019"
+       y1="595.9844"
+       y2="595.9844"
+       id="line79" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="97.4429"
+       x="131.6934"
+       y="590.9185"
+       id="text80">offer download</text>
+    <line
+       style="stroke:#000000;stroke-width:1.0;stroke-dasharray:2.0,2.0;"
+       x1="77.7744"
+       x2="2055.6865"
+       y1="611.9844"
+       y2="611.9844"
+       id="line80" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="99.3008"
+       x="82.7744"
+       y="622.1948"
+       id="text81">[TotalPayByJob]</text>
+    <polygon
+       fill="#181818"
+       points="335.019,642.9219,345.019,646.9219,335.019,650.9219,339.019,646.9219"
+       style="stroke:#181818;stroke-width:1.0;"
+       id="polygon81" />
+    <line
+       style="stroke:#181818;stroke-width:1.0;"
+       x1="114.6934"
+       x2="341.019"
+       y1="646.9219"
+       y2="646.9219"
+       id="line81" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="181.8604"
+       x="121.6934"
+       y="641.856"
+       id="text82">requestReport(&quot;totalByJob&quot;)</text>
+    <polygon
+       fill="#181818"
+       points="585.4209,672.0547,595.4209,676.0547,585.4209,680.0547,589.4209,676.0547"
+       style="stroke:#181818;stroke-width:1.0;"
+       id="polygon82" />
+    <line
+       style="stroke:#181818;stroke-width:1.0;"
+       x1="357.019"
+       x2="591.4209"
+       y1="676.0547"
+       y2="676.0547"
+       id="line82" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="124.2109"
+       x="364.019"
+       y="670.9888"
+       id="text83">getTotalPayByJob()</text>
+    <polygon
+       fill="#181818"
+       points="781.8086,701.1875,791.8086,705.1875,781.8086,709.1875,785.8086,705.1875"
+       style="stroke:#181818;stroke-width:1.0;"
+       id="polygon83" />
+    <line
+       style="stroke:#181818;stroke-width:1.0;"
+       x1="607.4209"
+       x2="787.8086"
+       y1="705.1875"
+       y2="705.1875"
+       id="line83" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="135.9224"
+       x="614.4209"
+       y="700.1216"
+       id="text84">fetchTotalPayByJob()</text>
+    <polygon
+       fill="#181818"
+       points="1182.2925,730.3203,1192.2925,734.3203,1182.2925,738.3203,1186.2925,734.3203"
+       style="stroke:#181818;stroke-width:1.0;"
+       id="polygon84" />
+    <line
+       style="stroke:#181818;stroke-width:1.0;"
+       x1="803.8086"
+       x2="1188.2925"
+       y1="734.3203"
+       y2="734.3203"
+       id="line84" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="368.145"
+       x="810.8086"
+       y="729.2544"
+       id="text85">SELECT jobTitle, SUM(pay) AS total ... GROUP BY jobTitle</text>
+    <path
+       d="M1209,747.3203 L1209,772.3203 L2042,772.3203 L2042,757.3203 L2032,747.3203 L1209,747.3203 "
+       fill="#FFFF88"
+       style="stroke:#181818;stroke-width:0.5;"
+       id="path85" />
+    <path
+       d="M2032,747.3203 L2032,757.3203 L2042,757.3203 L2032,747.3203 "
+       fill="#FFFF88"
+       style="stroke:#181818;stroke-width:0.5;"
+       id="path86" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="812.3477"
+       x="1215"
+       y="764.3872"
+       id="text86">Sample SQL:\nSELECT jobTitle, SUM(pay) AS total\nFROM employee e JOIN pay p ON e.empid = p.empid\nGROUP BY jobTitle</text>
+    <polygon
+       fill="#181818"
+       points="814.8086,794.5859,804.8086,798.5859,814.8086,802.5859,810.8086,798.5859"
+       style="stroke:#181818;stroke-width:1.0;"
+       id="polygon86" />
+    <line
+       style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;"
+       x1="808.8086"
+       x2="1198.2925"
+       y1="798.5859"
+       y2="798.5859"
+       id="line86" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="116.2319"
+       x="820.8086"
+       y="793.52"
+       id="text87">List&lt;JobPayDTO&gt;</text>
+    <polygon
+       fill="#181818"
+       points="618.4209,823.7188,608.4209,827.7188,618.4209,831.7188,614.4209,827.7188"
+       style="stroke:#181818;stroke-width:1.0;"
+       id="polygon87" />
+    <line
+       style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;"
+       x1="612.4209"
+       x2="797.8086"
+       y1="827.7188"
+       y2="827.7188"
+       id="line87" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="116.2319"
+       x="624.4209"
+       y="822.6528"
+       id="text88">List&lt;JobPayDTO&gt;</text>
+    <polygon
+       fill="#181818"
+       points="368.019,852.8516,358.019,856.8516,368.019,860.8516,364.019,856.8516"
+       style="stroke:#181818;stroke-width:1.0;"
+       id="polygon88" />
+    <line
+       style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;"
+       x1="362.019"
+       x2="601.4209"
+       y1="856.8516"
+       y2="856.8516"
+       id="line88" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="116.2319"
+       x="374.019"
+       y="851.7856"
+       id="text89">List&lt;JobPayDTO&gt;</text>
+    <polygon
+       fill="#181818"
+       points="125.6934,881.9844,115.6934,885.9844,125.6934,889.9844,121.6934,885.9844"
+       style="stroke:#181818;stroke-width:1.0;"
+       id="polygon89" />
+    <line
+       style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;"
+       x1="119.6934"
+       x2="351.019"
+       y1="885.9844"
+       y2="885.9844"
+       id="line89" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="116.2319"
+       x="131.6934"
+       y="880.9185"
+       id="text90">List&lt;JobPayDTO&gt;</text>
+    <path
+       d="M87.7744,900.9844 L157.2256,900.9844 L157.2256,908.1172 L147.2256,918.1172 L87.7744,918.1172 L87.7744,900.9844 "
+       fill="#EEEEEE"
+       style="stroke:#000000;stroke-width:1.5;"
+       id="path90" />
+    <rect
+       fill="none"
+       height="162.7969"
+       style="stroke:#000000;stroke-width:1.5;"
+       width="1266.1885"
+       x="87.7744"
+       y="900.9844"
+       id="rect90" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="24.4512"
+       x="102.7744"
+       y="914.0513"
+       id="text91">opt</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="116.9609"
+       x="172.2256"
+       y="913.1948"
+       id="text92">[exportRequested]</text>
+    <polygon
+       fill="#181818"
+       points="585.4209,935.25,595.4209,939.25,585.4209,943.25,589.4209,939.25"
+       style="stroke:#181818;stroke-width:1.0;"
+       id="polygon92" />
+    <line
+       style="stroke:#181818;stroke-width:1.0;"
+       x1="352.019"
+       x2="591.4209"
+       y1="939.25"
+       y2="939.25"
+       id="line92" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="194.9365"
+       x="359.019"
+       y="934.1841"
+       id="text93">exportCSV(List&lt;JobPayDTO&gt;)</text>
+    <polygon
+       fill="#181818"
+       points="1281.6372,964.3828,1291.6372,968.3828,1281.6372,972.3828,1285.6372,968.3828"
+       style="stroke:#181818;stroke-width:1.0;"
+       id="polygon93" />
+    <line
+       style="stroke:#181818;stroke-width:1.0;"
+       x1="607.4209"
+       x2="1287.6372"
+       y1="968.3828"
+       y2="968.3828"
+       id="line93" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="159.0596"
+       x="614.4209"
+       y="963.3169"
+       id="text94">write(List&lt;JobPayDTO&gt;)</text>
+    <polygon
+       fill="#181818"
+       points="618.4209,993.5156,608.4209,997.5156,618.4209,1001.5156,614.4209,997.5156"
+       style="stroke:#181818;stroke-width:1.0;"
+       id="polygon94" />
+    <line
+       style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;"
+       x1="612.4209"
+       x2="1297.6372"
+       y1="997.5156"
+       y2="997.5156"
+       id="line94" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="48.9404"
+       x="624.4209"
+       y="992.4497"
+       id="text95">filePath</text>
+    <polygon
+       fill="#181818"
+       points="363.019,1022.6484,353.019,1026.6484,363.019,1030.6484,359.019,1026.6484"
+       style="stroke:#181818;stroke-width:1.0;"
+       id="polygon95" />
+    <line
+       style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;"
+       x1="357.019"
+       x2="601.4209"
+       y1="1026.6484"
+       y2="1026.6484"
+       id="line95" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="48.9404"
+       x="369.019"
+       y="1021.5825"
+       id="text96">filePath</text>
+    <polygon
+       fill="#181818"
+       points="125.6934,1051.7813,115.6934,1055.7813,125.6934,1059.7813,121.6934,1055.7813"
+       style="stroke:#181818;stroke-width:1.0;"
+       id="polygon96" />
+    <line
+       style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;"
+       x1="119.6934"
+       x2="351.019"
+       y1="1055.7813"
+       y2="1055.7813"
+       id="line96" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="97.4429"
+       x="131.6934"
+       y="1050.7153"
+       id="text97">offer download</text>
+    <line
+       style="stroke:#000000;stroke-width:1.0;stroke-dasharray:2.0,2.0;"
+       x1="77.7744"
+       x2="2055.6865"
+       y1="1071.7813"
+       y2="1071.7813"
+       id="line97" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="129.3252"
+       x="82.7744"
+       y="1081.9917"
+       id="text98">[TotalPayByDivision]</text>
+    <polygon
+       fill="#181818"
+       points="335.019,1102.7188,345.019,1106.7188,335.019,1110.7188,339.019,1106.7188"
+       style="stroke:#181818;stroke-width:1.0;"
+       id="polygon98" />
+    <line
+       style="stroke:#181818;stroke-width:1.0;"
+       x1="114.6934"
+       x2="341.019"
+       y1="1106.7188"
+       y2="1106.7188"
+       id="line98" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="213.3257"
+       x="121.6934"
+       y="1101.6528"
+       id="text99">requestReport(&quot;totalByDivision&quot;)</text>
+    <polygon
+       fill="#181818"
+       points="585.4209,1131.8516,595.4209,1135.8516,585.4209,1139.8516,589.4209,1135.8516"
+       style="stroke:#181818;stroke-width:1.0;"
+       id="polygon99" />
+    <line
+       style="stroke:#181818;stroke-width:1.0;"
+       x1="357.019"
+       x2="591.4209"
+       y1="1135.8516"
+       y2="1135.8516"
+       id="line99" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="155.6763"
+       x="364.019"
+       y="1130.7856"
+       id="text100">getTotalPayByDivision()</text>
+    <polygon
+       fill="#181818"
+       points="781.8086,1160.9844,791.8086,1164.9844,781.8086,1168.9844,785.8086,1164.9844"
+       style="stroke:#181818;stroke-width:1.0;"
+       id="polygon100" />
+    <line
+       style="stroke:#181818;stroke-width:1.0;"
+       x1="607.4209"
+       x2="787.8086"
+       y1="1164.9844"
+       y2="1164.9844"
+       id="line100" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="167.3877"
+       x="614.4209"
+       y="1159.9185"
+       id="text101">fetchTotalPayByDivision()</text>
+    <polygon
+       fill="#181818"
+       points="1182.2925,1190.1172,1192.2925,1194.1172,1182.2925,1198.1172,1186.2925,1194.1172"
+       style="stroke:#181818;stroke-width:1.0;"
+       id="polygon101" />
+    <line
+       style="stroke:#181818;stroke-width:1.0;"
+       x1="803.8086"
+       x2="1188.2925"
+       y1="1194.1172"
+       y2="1194.1172"
+       id="line101" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="371.4839"
+       x="810.8086"
+       y="1189.0513"
+       id="text102">SELECT division, SUM(pay) AS total ... GROUP BY division</text>
+    <path
+       d="M1209,1207.1172 L1209,1232.1172 L2045,1232.1172 L2045,1217.1172 L2035,1207.1172 L1209,1207.1172 "
+       fill="#FFFF88"
+       style="stroke:#181818;stroke-width:0.5;"
+       id="path102" />
+    <path
+       d="M2035,1207.1172 L2035,1217.1172 L2045,1217.1172 L2035,1207.1172 "
+       fill="#FFFF88"
+       style="stroke:#181818;stroke-width:0.5;"
+       id="path103" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="815.6865"
+       x="1215"
+       y="1224.1841"
+       id="text103">Sample SQL:\nSELECT division, SUM(pay) AS total\nFROM employee e JOIN pay p ON e.empid = p.empid\nGROUP BY division</text>
+    <polygon
+       fill="#181818"
+       points="814.8086,1254.3828,804.8086,1258.3828,814.8086,1262.3828,810.8086,1258.3828"
+       style="stroke:#181818;stroke-width:1.0;"
+       id="polygon103" />
+    <line
+       style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;"
+       x1="808.8086"
+       x2="1198.2925"
+       y1="1258.3828"
+       y2="1258.3828"
+       id="line103" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="147.6973"
+       x="820.8086"
+       y="1253.3169"
+       id="text104">List&lt;DivisionPayDTO&gt;</text>
+    <polygon
+       fill="#181818"
+       points="618.4209,1283.5156,608.4209,1287.5156,618.4209,1291.5156,614.4209,1287.5156"
+       style="stroke:#181818;stroke-width:1.0;"
+       id="polygon104" />
+    <line
+       style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;"
+       x1="612.4209"
+       x2="797.8086"
+       y1="1287.5156"
+       y2="1287.5156"
+       id="line104" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="147.6973"
+       x="624.4209"
+       y="1282.4497"
+       id="text105">List&lt;DivisionPayDTO&gt;</text>
+    <polygon
+       fill="#181818"
+       points="368.019,1312.6484,358.019,1316.6484,368.019,1320.6484,364.019,1316.6484"
+       style="stroke:#181818;stroke-width:1.0;"
+       id="polygon105" />
+    <line
+       style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;"
+       x1="362.019"
+       x2="601.4209"
+       y1="1316.6484"
+       y2="1316.6484"
+       id="line105" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="147.6973"
+       x="374.019"
+       y="1311.5825"
+       id="text106">List&lt;DivisionPayDTO&gt;</text>
+    <polygon
+       fill="#181818"
+       points="125.6934,1341.7813,115.6934,1345.7813,125.6934,1349.7813,121.6934,1345.7813"
+       style="stroke:#181818;stroke-width:1.0;"
+       id="polygon106" />
+    <line
+       style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;"
+       x1="119.6934"
+       x2="351.019"
+       y1="1345.7813"
+       y2="1345.7813"
+       id="line106" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="147.6973"
+       x="131.6934"
+       y="1340.7153"
+       id="text107">List&lt;DivisionPayDTO&gt;</text>
+    <path
+       d="M87.7744,1360.7813 L157.2256,1360.7813 L157.2256,1367.9141 L147.2256,1377.9141 L87.7744,1377.9141 L87.7744,1360.7813 "
+       fill="#EEEEEE"
+       style="stroke:#000000;stroke-width:1.5;"
+       id="path107" />
+    <rect
+       fill="none"
+       height="162.7969"
+       style="stroke:#000000;stroke-width:1.5;"
+       width="1266.1885"
+       x="87.7744"
+       y="1360.7813"
+       id="rect107" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="24.4512"
+       x="102.7744"
+       y="1373.8481"
+       id="text108">opt</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="116.9609"
+       x="172.2256"
+       y="1372.9917"
+       id="text109">[exportRequested]</text>
+    <polygon
+       fill="#181818"
+       points="585.4209,1395.0469,595.4209,1399.0469,585.4209,1403.0469,589.4209,1399.0469"
+       style="stroke:#181818;stroke-width:1.0;"
+       id="polygon109" />
+    <line
+       style="stroke:#181818;stroke-width:1.0;"
+       x1="352.019"
+       x2="591.4209"
+       y1="1399.0469"
+       y2="1399.0469"
+       id="line109" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="226.4019"
+       x="359.019"
+       y="1393.981"
+       id="text110">exportCSV(List&lt;DivisionPayDTO&gt;)</text>
+    <polygon
+       fill="#181818"
+       points="1281.6372,1424.1797,1291.6372,1428.1797,1281.6372,1432.1797,1285.6372,1428.1797"
+       style="stroke:#181818;stroke-width:1.0;"
+       id="polygon110" />
+    <line
+       style="stroke:#181818;stroke-width:1.0;"
+       x1="607.4209"
+       x2="1287.6372"
+       y1="1428.1797"
+       y2="1428.1797"
+       id="line110" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="190.5249"
+       x="614.4209"
+       y="1423.1138"
+       id="text111">write(List&lt;DivisionPayDTO&gt;)</text>
+    <polygon
+       fill="#181818"
+       points="618.4209,1453.3125,608.4209,1457.3125,618.4209,1461.3125,614.4209,1457.3125"
+       style="stroke:#181818;stroke-width:1.0;"
+       id="polygon111" />
+    <line
+       style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;"
+       x1="612.4209"
+       x2="1297.6372"
+       y1="1457.3125"
+       y2="1457.3125"
+       id="line111" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="48.9404"
+       x="624.4209"
+       y="1452.2466"
+       id="text112">filePath</text>
+    <polygon
+       fill="#181818"
+       points="363.019,1482.4453,353.019,1486.4453,363.019,1490.4453,359.019,1486.4453"
+       style="stroke:#181818;stroke-width:1.0;"
+       id="polygon112" />
+    <line
+       style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;"
+       x1="357.019"
+       x2="601.4209"
+       y1="1486.4453"
+       y2="1486.4453"
+       id="line112" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="48.9404"
+       x="369.019"
+       y="1481.3794"
+       id="text113">filePath</text>
+    <polygon
+       fill="#181818"
+       points="125.6934,1511.5781,115.6934,1515.5781,125.6934,1519.5781,121.6934,1515.5781"
+       style="stroke:#181818;stroke-width:1.0;"
+       id="polygon113" />
+    <line
+       style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;"
+       x1="119.6934"
+       x2="351.019"
+       y1="1515.5781"
+       y2="1515.5781"
+       id="line113" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="97.4429"
+       x="131.6934"
+       y="1510.5122"
+       id="text114">offer download</text>
+    <!--SRC=[rPRDSjem4CVlVeeTUY6TX5upJCeCNswQ2I6rSPlES57m4gjZ9DTMIFrCVOJUycHToG5Z1d_auz1omTBkVxNwIpy3MoWPGzzVSU4b60DBeEzP4OiLN_282GNUZPxqRWgJ4yR5K0eLop3CL9DX8S71ICRAnNZD5wZZZdiWFkfFJOo-BPyfTiiIXDOaTRzSZWOj7HeDuEni4-hr2ZLi7gAR9WfNEjDsBIiGKY78DRNKzuv9-yws-_In01v_2td2xbNm-8T6JxA0T492AE-u-A23AAWwKrmA2uKFffvbiL31U1LTi_IS9-HNIXL06tFIetr35sByUO-9oZRLRWLPLkl8vB65ucj6VP55UamAqZakwUvG5UgsznHacXvJhbPejxgmHBK8gbNQJgFJ2bAI4LrmnvVZuGomy_uOeivxi9tf170LXJ9518IBwUShY5WA4NGwdMB5qS2CZRinlmiKo2LazjhswQa9agcCgY7GuNNdecQvkTXPRtf5UHJZFdoaPFCq5z_Enyvusui-3dCQUa1Bd-IEN98DPxaTezcqPx9ytDz0PiZ6_GQwt4hNwCnfDz6vswCc5TsKHYgw86PAHWhmbxvBJdQnq7-ok71xifIX-xLzeFRHLh7VL7wZR5tb8UOA6rQmymgscnkv912lcGgsmPqzsSL5DnvMINRwt3LGBfV4jIyVH2YPlxqKP9PbOKWlZfbKBAGz3D8BULk3gDAv9h4HfONIZIcjLbLH-aFUphWAyHXSRz8cIewWxu9fMXC1dvofTms3xzl4j-ArOk6vg7Xb74RuS9jrA9DPPDhpC2xNb2DSeId1jrpnEdJpkY_1jbBzlo0xuckUwD_THjnkify9xqRs0e9BfLKO-q-YMepztTs_0SOL2xy6uqARTHXl77isopN2Sg3hX2LKryXUX_PUyPVmNL_YtuMS7kZVyry0]-->
+  </g>
+</svg>
