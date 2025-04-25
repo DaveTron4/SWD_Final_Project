@@ -1,0 +1,2896 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   contentStyleType="text/css"
+   data-diagram-type="SEQUENCE"
+   height="2094px"
+   preserveAspectRatio="none"
+   style="width:1872px;height:2094px;background:#FFFFFF;"
+   version="1.1"
+   viewBox="0 0 1872 2094"
+   width="1872px"
+   zoomAndPan="magnify"
+   id="svg140"
+   sodipodi:docname="yes.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview140"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.2624766"
+     inkscape:cx="474.06818"
+     inkscape:cy="307.33242"
+     inkscape:window-width="1800"
+     inkscape:window-height="1021"
+     inkscape:window-x="0"
+     inkscape:window-y="44"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g79" />
+  <defs
+     id="defs1">
+    <rect
+       x="432.27034"
+       y="1377.3681"
+       width="181.64831"
+       height="18.954607"
+       id="rect148" />
+    <rect
+       x="443.32745"
+       y="1362.2896"
+       width="122.04966"
+       height="17.051056"
+       id="rect145" />
+    <rect
+       x="813.5364"
+       y="316.5765"
+       width="98.884879"
+       height="18.472999"
+       id="rect143" />
+    <rect
+       x="-1830.6836"
+       y="385.49888"
+       width="15.699049"
+       height="52.330165"
+       id="rect140" />
+  </defs>
+  <g
+     id="g140">
+    <g
+       id="g1">
+      <title
+         id="title1">UX</title>
+      <rect
+         fill="#FFFFFF"
+         height="312.4609"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="179.8613"
+         y="162.9922"
+         id="rect1" />
+    </g>
+    <g
+       id="g2">
+      <title
+         id="title2">MainController</title>
+      <rect
+         fill="#FFFFFF"
+         height="254.1953"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="413.478"
+         y="192.125"
+         id="rect2" />
+    </g>
+    <g
+       id="g3">
+      <title
+         id="title3">MainController</title>
+      <rect
+         fill="#FFFFFF"
+         height="239.0625"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="413.478"
+         y="528.7188"
+         id="rect3" />
+    </g>
+    <g
+       id="g4">
+      <title
+         id="title4">MainController</title>
+      <rect
+         fill="#FFFFFF"
+         height="239.0625"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="413.478"
+         y="811.7188"
+         id="rect4" />
+    </g>
+    <g
+       id="g5">
+      <title
+         id="title5">MainController</title>
+      <rect
+         fill="#FFFFFF"
+         height="239.0625"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="413.478"
+         y="1094.7188"
+         id="rect5" />
+    </g>
+    <g
+       id="g6">
+      <title
+         id="title6">MainController</title>
+      <rect
+         fill="#FFFFFF"
+         height="239.0625"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="413.478"
+         y="1369.9141"
+         id="rect6" />
+    </g>
+    <g
+       id="g7">
+      <title
+         id="title7">MainController</title>
+      <rect
+         fill="#FFFFFF"
+         height="254.1953"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="413.478"
+         y="1691.375"
+         id="rect7" />
+    </g>
+    <g
+       id="g8">
+      <title
+         id="title8">ServiceLayer</title>
+      <rect
+         fill="#FFFFFF"
+         height="195.9297"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="625.5171"
+         y="221.2578"
+         id="rect8" />
+    </g>
+    <g
+       id="g9">
+      <title
+         id="title9">ServiceLayer</title>
+      <rect
+         fill="#FFFFFF"
+         height="180.7969"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="625.5171"
+         y="557.8516"
+         id="rect9" />
+    </g>
+    <g
+       id="g10">
+      <title
+         id="title10">ServiceLayer</title>
+      <rect
+         fill="#FFFFFF"
+         height="180.7969"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="625.5171"
+         y="840.8516"
+         id="rect10" />
+    </g>
+    <g
+       id="g11">
+      <title
+         id="title11">ServiceLayer</title>
+      <rect
+         fill="#FFFFFF"
+         height="180.7969"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="625.5171"
+         y="1123.8516"
+         id="rect11" />
+    </g>
+    <g
+       id="g12">
+      <title
+         id="title12">ServiceLayer</title>
+      <rect
+         fill="#FFFFFF"
+         height="180.7969"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="625.5171"
+         y="1399.0469"
+         id="rect12" />
+    </g>
+    <g
+       id="g13">
+      <title
+         id="title13">ServiceLayer</title>
+      <rect
+         fill="#FFFFFF"
+         height="195.9297"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="625.5171"
+         y="1720.5078"
+         id="rect13" />
+    </g>
+    <g
+       id="g14">
+      <title
+         id="title14">DAO</title>
+      <rect
+         fill="#FFFFFF"
+         height="137.6641"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="837.5562"
+         y="250.3906"
+         id="rect14" />
+    </g>
+    <g
+       id="g15">
+      <title
+         id="title15">DAO</title>
+      <rect
+         fill="#FFFFFF"
+         height="122.5313"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="837.5562"
+         y="586.9844"
+         id="rect15" />
+    </g>
+    <g
+       id="g16">
+      <title
+         id="title16">DAO</title>
+      <rect
+         fill="#FFFFFF"
+         height="122.5313"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="837.5562"
+         y="869.9844"
+         id="rect16" />
+    </g>
+    <g
+       id="g17">
+      <title
+         id="title17">DAO</title>
+      <rect
+         fill="#FFFFFF"
+         height="122.5313"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="837.5562"
+         y="1152.9844"
+         id="rect17" />
+    </g>
+    <g
+       id="g18">
+      <title
+         id="title18">DAO</title>
+      <rect
+         fill="#FFFFFF"
+         height="122.5313"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="837.5562"
+         y="1428.1797"
+         id="rect18" />
+    </g>
+    <g
+       id="g19">
+      <title
+         id="title19">DAO</title>
+      <rect
+         fill="#FFFFFF"
+         height="137.6641"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="837.5562"
+         y="1749.6406"
+         id="rect19" />
+    </g>
+    <g
+       id="g20">
+      <title
+         id="title20">&lt;&lt;database&gt;&gt;</title>
+      <rect
+         fill="#FFFFFF"
+         height="64.2656"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="1174.1128"
+         y="294.6563"
+         id="rect20" />
+    </g>
+    <g
+       id="g21">
+      <title
+         id="title21">&lt;&lt;database&gt;&gt;</title>
+      <rect
+         fill="#FFFFFF"
+         height="64.2656"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="1174.1128"
+         y="616.1172"
+         id="rect21" />
+    </g>
+    <g
+       id="g22">
+      <title
+         id="title22">&lt;&lt;database&gt;&gt;</title>
+      <rect
+         fill="#FFFFFF"
+         height="64.2656"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="1174.1128"
+         y="899.1172"
+         id="rect22" />
+    </g>
+    <g
+       id="g23">
+      <title
+         id="title23">&lt;&lt;database&gt;&gt;</title>
+      <rect
+         fill="#FFFFFF"
+         height="64.2656"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="1174.1128"
+         y="1182.1172"
+         id="rect23" />
+    </g>
+    <g
+       id="g24">
+      <title
+         id="title24">&lt;&lt;database&gt;&gt;</title>
+      <rect
+         fill="#FFFFFF"
+         height="64.2656"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="1174.1128"
+         y="1457.3125"
+         id="rect24" />
+    </g>
+    <g
+       id="g25">
+      <title
+         id="title25">&lt;&lt;database&gt;&gt;</title>
+      <rect
+         fill="#FFFFFF"
+         height="64.2656"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="1174.1128"
+         y="1793.9063"
+         id="rect25" />
+    </g>
+    <rect
+       fill="none"
+       height="851.3281"
+       style="stroke:#000000;stroke-width:1.5;"
+       width="1463.8262"
+       x="157.9424"
+       y="490.4531"
+       id="rect26" />
+    <rect
+       fill="none"
+       height="329.5938"
+       style="stroke:#000000;stroke-width:1.5;"
+       width="1856.6104"
+       x="10"
+       y="1653.1094"
+       id="rect27" />
+    <g
+       id="g28">
+      <title
+         id="title27">AdminUser</title>
+      <rect
+         fill="#000000"
+         fill-opacity="0.00000"
+         height="1916.1094"
+         width="8"
+         x="57.3872"
+         y="83.5938"
+         id="rect28" />
+      <line
+         style="stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;"
+         x1="61"
+         x2="61"
+         y1="83.5938"
+         y2="1999.7031"
+         id="line28" />
+    </g>
+    <g
+       id="g29">
+      <title
+         id="title28">UX</title>
+      <rect
+         fill="#000000"
+         fill-opacity="0.00000"
+         height="1916.1094"
+         width="8"
+         x="180.8613"
+         y="83.5938"
+         id="rect29" />
+      <line
+         style="stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;"
+         x1="183.9424"
+         x2="183.9424"
+         y1="83.5938"
+         y2="1999.7031"
+         id="line29" />
+    </g>
+    <g
+       id="g30">
+      <title
+         id="title29">MainController</title>
+      <rect
+         fill="#000000"
+         fill-opacity="0.00000"
+         height="1916.1094"
+         width="8"
+         x="414.478"
+         y="83.5938"
+         id="rect30" />
+      <line
+         style="stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;"
+         x1="418.1812"
+         x2="418.1812"
+         y1="83.5938"
+         y2="1999.7031"
+         id="line30" />
+    </g>
+    <g
+       id="g31">
+      <title
+         id="title30">ServiceLayer</title>
+      <rect
+         fill="#000000"
+         fill-opacity="0.00000"
+         height="1916.1094"
+         width="8"
+         x="626.5171"
+         y="83.5938"
+         id="rect31" />
+      <line
+         style="stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;"
+         x1="630.1299"
+         x2="630.1299"
+         y1="83.5938"
+         y2="1999.7031"
+         id="line31" />
+    </g>
+    <g
+       id="g32">
+      <title
+         id="title31">DAO</title>
+      <rect
+         fill="#000000"
+         fill-opacity="0.00000"
+         height="1916.1094"
+         width="8"
+         x="838.5562"
+         y="83.5938"
+         id="rect32" />
+      <line
+         style="stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;"
+         x1="841.8677"
+         x2="841.8677"
+         y1="83.5938"
+         y2="1999.7031"
+         id="line32" />
+    </g>
+    <g
+       id="g33">
+      <title
+         id="title32">&lt;&lt;database&gt;&gt;</title>
+      <rect
+         fill="#000000"
+         fill-opacity="0.00000"
+         height="1916.1094"
+         width="8"
+         x="1175.1128"
+         y="83.5938"
+         id="rect33" />
+      <line
+         style="stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;"
+         x1="1179.0938"
+         x2="1179.0938"
+         y1="83.5938"
+         y2="1999.7031"
+         id="line33" />
+    </g>
+    <g
+       class="participant participant-head"
+       data-participant="AU"
+       id="g34">
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14"
+         lengthAdjust="spacing"
+         textLength="76.7744"
+         x="20"
+         y="80.292"
+         id="text33">AdminUser</text>
+      <ellipse
+         cx="61.3872"
+         cy="15.7969"
+         fill="#E2E2F0"
+         rx="8"
+         ry="8"
+         style="stroke:#181818;stroke-width:0.5;"
+         id="ellipse33" />
+      <path
+         d="M61.3872,23.7969 L61.3872,50.7969 M48.3872,31.7969 L74.3872,31.7969 M61.3872,50.7969 L48.3872,65.7969 M61.3872,50.7969 L74.3872,65.7969"
+         fill="none"
+         style="stroke:#181818;stroke-width:0.5;"
+         id="path33" />
+    </g>
+    <g
+       class="participant participant-tail"
+       data-participant="AU"
+       id="g35">
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14"
+         lengthAdjust="spacing"
+         textLength="76.7744"
+         x="20"
+         y="2011.6982"
+         id="text34">AdminUser</text>
+      <ellipse
+         cx="61.3872"
+         cy="2023.5"
+         fill="#E2E2F0"
+         rx="8"
+         ry="8"
+         style="stroke:#181818;stroke-width:0.5;"
+         id="ellipse34" />
+      <path
+         d="M61.3872,2031.5 L61.3872,2058.5 M48.3872,2039.5 L74.3872,2039.5 M61.3872,2058.5 L48.3872,2073.5 M61.3872,2058.5 L74.3872,2073.5"
+         fill="none"
+         style="stroke:#181818;stroke-width:0.5;"
+         id="path34" />
+    </g>
+    <g
+       class="participant participant-head"
+       data-participant="UX"
+       id="g36">
+      <rect
+         fill="#E2E2F0"
+         height="30.2969"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:0.5;"
+         width="33.8379"
+         x="167.9424"
+         y="52.2969"
+         id="rect35" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14"
+         lengthAdjust="spacing"
+         textLength="19.8379"
+         x="174.9424"
+         y="72.292"
+         id="text35">UX</text>
+    </g>
+    <g
+       class="participant participant-tail"
+       data-participant="UX"
+       id="g37">
+      <rect
+         fill="#E2E2F0"
+         height="30.2969"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:0.5;"
+         width="33.8379"
+         x="167.9424"
+         y="1998.7031"
+         id="rect36" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14"
+         lengthAdjust="spacing"
+         textLength="19.8379"
+         x="174.9424"
+         y="2018.6982"
+         id="text36">UX</text>
+    </g>
+    <g
+       class="participant participant-head"
+       data-participant="MC"
+       id="g38">
+      <rect
+         fill="#E2E2F0"
+         height="30.2969"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:0.5;"
+         width="116.5938"
+         x="360.1812"
+         y="52.2969"
+         id="rect37" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="102.5938"
+         x="367.18121"
+         y="72.292"
+         id="text37"
+         style="font-size:12px;font-family:sans-serif;fill:#000000;-inkscape-font-specification:'sans-serif, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           id="tspan141"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="367.18121"
+           y="72.292"
+           sodipodi:role="line">EmployeeController</tspan></text>
+    </g>
+    <g
+       class="participant participant-tail"
+       data-participant="MC"
+       id="g39">
+      <rect
+         fill="#E2E2F0"
+         height="30.2969"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:0.5;"
+         width="116.5938"
+         x="360.1812"
+         y="1998.7031"
+         id="rect38" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="102.5938"
+         x="367.18121"
+         y="2018.6982"
+         id="text38"
+         style="font-size:14px;font-family:sans-serif;fill:#000000"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           id="tspan150">EmployeeController</tspan></text>
+    </g>
+    <g
+       class="participant participant-head"
+       data-participant="SL"
+       id="g40">
+      <rect
+         fill="#E2E2F0"
+         height="30.2969"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:0.5;"
+         width="104.7744"
+         x="578.1299"
+         y="52.2969"
+         id="rect39" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="90.774399"
+         x="585.12988"
+         y="72.292"
+         id="text39"
+         style="font-size:14px;font-family:sans-serif;fill:#000000"><tspan
+           sodipodi:role="line"
+           id="tspan142"
+           x="585.12988"
+           y="72.292"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">EmployeeService</tspan></text>
+    </g>
+    <g
+       class="participant participant-tail"
+       data-participant="SL"
+       id="g41">
+      <rect
+         fill="#E2E2F0"
+         height="30.2969"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:0.5;"
+         width="104.7744"
+         x="578.1299"
+         y="1998.7031"
+         id="rect40" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14px"
+         lengthAdjust="spacing"
+         textLength="90.774399"
+         x="585.12988"
+         y="2018.6982"
+         id="text40"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">EmployeService</text>
+    </g>
+    <g
+       class="participant participant-head"
+       data-participant="DAO"
+       id="g42">
+      <rect
+         fill="#E2E2F0"
+         height="30.2969"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:0.5;"
+         width="45.377"
+         x="819.8677"
+         y="52.2969"
+         id="rect41" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14"
+         lengthAdjust="spacing"
+         textLength="31.377"
+         x="826.8677"
+         y="72.292"
+         id="text41">DAO</text>
+    </g>
+    <g
+       class="participant participant-tail"
+       data-participant="DAO"
+       id="g43">
+      <rect
+         fill="#E2E2F0"
+         height="30.2969"
+         rx="2.5"
+         ry="2.5"
+         style="stroke:#181818;stroke-width:0.5;"
+         width="45.377"
+         x="819.8677"
+         y="1998.7031"
+         id="rect42" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14"
+         lengthAdjust="spacing"
+         textLength="31.377"
+         x="826.8677"
+         y="2018.6982"
+         id="text42">DAO</text>
+    </g>
+    <g
+       class="participant participant-head"
+       data-participant="DB"
+       id="g45">
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14"
+         font-style="italic"
+         lengthAdjust="spacing"
+         textLength="82.0381"
+         x="1135.0938"
+         y="63.9951"
+         id="text43">«database»</text>
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14"
+         lengthAdjust="spacing"
+         textLength="68.4551"
+         x="1141.8853"
+         y="80.292"
+         id="text44">MySQLDB</text>
+      <path
+         d="M1161.1128,15 C1161.1128,5 1179.1128,5 1179.1128,5 C1179.1128,5 1197.1128,5 1197.1128,15 L1197.1128,41 C1197.1128,51 1179.1128,51 1179.1128,51 C1179.1128,51 1161.1128,51 1161.1128,41 L1161.1128,15"
+         fill="#E2E2F0"
+         style="stroke:#181818;stroke-width:1.5;"
+         id="path44" />
+      <path
+         d="M1161.1128,15 C1161.1128,25 1179.1128,25 1179.1128,25 C1179.1128,25 1197.1128,25 1197.1128,15"
+         fill="none"
+         style="stroke:#181818;stroke-width:1.5;"
+         id="path45" />
+    </g>
+    <g
+       class="participant participant-tail"
+       data-participant="DB"
+       id="g47">
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14"
+         font-style="italic"
+         lengthAdjust="spacing"
+         textLength="82.0381"
+         x="1135.0938"
+         y="2011.6982"
+         id="text45">«database»</text>
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14"
+         lengthAdjust="spacing"
+         textLength="68.4551"
+         x="1141.8853"
+         y="2027.9951"
+         id="text46">MySQLDB</text>
+      <path
+         d="M1161.1128,2041.2969 C1161.1128,2031.2969 1179.1128,2031.2969 1179.1128,2031.2969 C1179.1128,2031.2969 1197.1128,2031.2969 1197.1128,2041.2969 L1197.1128,2067.2969 C1197.1128,2077.2969 1179.1128,2077.2969 1179.1128,2077.2969 C1179.1128,2077.2969 1161.1128,2077.2969 1161.1128,2067.2969 L1161.1128,2041.2969"
+         fill="#E2E2F0"
+         style="stroke:#181818;stroke-width:1.5;"
+         id="path46" />
+      <path
+         d="M1161.1128,2041.2969 C1161.1128,2051.2969 1179.1128,2051.2969 1179.1128,2051.2969 C1179.1128,2051.2969 1197.1128,2051.2969 1197.1128,2041.2969"
+         fill="none"
+         style="stroke:#181818;stroke-width:1.5;"
+         id="path47" />
+    </g>
+    <g
+       id="g48">
+      <title
+         id="title47">UX</title>
+      <rect
+         fill="#FFFFFF"
+         height="312.4609"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="179.8613"
+         y="162.9922"
+         id="rect47" />
+    </g>
+    <g
+       id="g49">
+      <title
+         id="title48">MainController</title>
+      <rect
+         fill="#FFFFFF"
+         height="254.1953"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="413.478"
+         y="192.125"
+         id="rect48" />
+    </g>
+    <g
+       id="g50">
+      <title
+         id="title49">MainController</title>
+      <rect
+         fill="#FFFFFF"
+         height="239.0625"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="413.478"
+         y="528.7188"
+         id="rect49" />
+    </g>
+    <g
+       id="g51">
+      <title
+         id="title50">MainController</title>
+      <rect
+         fill="#FFFFFF"
+         height="239.0625"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="413.478"
+         y="811.7188"
+         id="rect50" />
+    </g>
+    <g
+       id="g52">
+      <title
+         id="title51">MainController</title>
+      <rect
+         fill="#FFFFFF"
+         height="239.0625"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="413.478"
+         y="1094.7188"
+         id="rect51" />
+    </g>
+    <g
+       id="g53">
+      <title
+         id="title52">MainController</title>
+      <rect
+         fill="#FFFFFF"
+         height="239.0625"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="413.478"
+         y="1369.9141"
+         id="rect52" />
+    </g>
+    <g
+       id="g54">
+      <title
+         id="title53">MainController</title>
+      <rect
+         fill="#FFFFFF"
+         height="254.1953"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="413.478"
+         y="1691.375"
+         id="rect53" />
+    </g>
+    <g
+       id="g55">
+      <title
+         id="title54">ServiceLayer</title>
+      <rect
+         fill="#FFFFFF"
+         height="195.9297"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="625.5171"
+         y="221.2578"
+         id="rect54" />
+    </g>
+    <g
+       id="g56">
+      <title
+         id="title55">ServiceLayer</title>
+      <rect
+         fill="#FFFFFF"
+         height="180.7969"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="625.5171"
+         y="557.8516"
+         id="rect55" />
+    </g>
+    <g
+       id="g57">
+      <title
+         id="title56">ServiceLayer</title>
+      <rect
+         fill="#FFFFFF"
+         height="180.7969"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="625.5171"
+         y="840.8516"
+         id="rect56" />
+    </g>
+    <g
+       id="g58">
+      <title
+         id="title57">ServiceLayer</title>
+      <rect
+         fill="#FFFFFF"
+         height="180.7969"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="625.5171"
+         y="1123.8516"
+         id="rect57" />
+    </g>
+    <g
+       id="g59">
+      <title
+         id="title58">ServiceLayer</title>
+      <rect
+         fill="#FFFFFF"
+         height="180.7969"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="625.5171"
+         y="1399.0469"
+         id="rect58" />
+    </g>
+    <g
+       id="g60">
+      <title
+         id="title59">ServiceLayer</title>
+      <rect
+         fill="#FFFFFF"
+         height="195.9297"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="625.5171"
+         y="1720.5078"
+         id="rect59" />
+    </g>
+    <g
+       id="g61">
+      <title
+         id="title60">DAO</title>
+      <rect
+         fill="#FFFFFF"
+         height="137.6641"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="837.5562"
+         y="250.3906"
+         id="rect60" />
+    </g>
+    <g
+       id="g62">
+      <title
+         id="title61">DAO</title>
+      <rect
+         fill="#FFFFFF"
+         height="122.5313"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="837.5562"
+         y="586.9844"
+         id="rect61" />
+    </g>
+    <g
+       id="g63">
+      <title
+         id="title62">DAO</title>
+      <rect
+         fill="#FFFFFF"
+         height="122.5313"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="837.5562"
+         y="869.9844"
+         id="rect62" />
+    </g>
+    <g
+       id="g64">
+      <title
+         id="title63">DAO</title>
+      <rect
+         fill="#FFFFFF"
+         height="122.5313"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="837.5562"
+         y="1152.9844"
+         id="rect63" />
+    </g>
+    <g
+       id="g65">
+      <title
+         id="title64">DAO</title>
+      <rect
+         fill="#FFFFFF"
+         height="122.5313"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="837.5562"
+         y="1428.1797"
+         id="rect64" />
+    </g>
+    <g
+       id="g66">
+      <title
+         id="title65">DAO</title>
+      <rect
+         fill="#FFFFFF"
+         height="137.6641"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="837.5562"
+         y="1749.6406"
+         id="rect65" />
+    </g>
+    <g
+       id="g67">
+      <title
+         id="title66">&lt;&lt;database&gt;&gt;</title>
+      <rect
+         fill="#FFFFFF"
+         height="64.2656"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="1174.1128"
+         y="294.6563"
+         id="rect66" />
+    </g>
+    <g
+       id="g68">
+      <title
+         id="title67">&lt;&lt;database&gt;&gt;</title>
+      <rect
+         fill="#FFFFFF"
+         height="64.2656"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="1174.1128"
+         y="616.1172"
+         id="rect67" />
+    </g>
+    <g
+       id="g69">
+      <title
+         id="title68">&lt;&lt;database&gt;&gt;</title>
+      <rect
+         fill="#FFFFFF"
+         height="64.2656"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="1174.1128"
+         y="899.1172"
+         id="rect68" />
+    </g>
+    <g
+       id="g70">
+      <title
+         id="title69">&lt;&lt;database&gt;&gt;</title>
+      <rect
+         fill="#FFFFFF"
+         height="64.2656"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="1174.1128"
+         y="1182.1172"
+         id="rect69" />
+    </g>
+    <g
+       id="g71">
+      <title
+         id="title70">&lt;&lt;database&gt;&gt;</title>
+      <rect
+         fill="#FFFFFF"
+         height="64.2656"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="1174.1128"
+         y="1457.3125"
+         id="rect70" />
+    </g>
+    <g
+       id="g72">
+      <title
+         id="title71">&lt;&lt;database&gt;&gt;</title>
+      <rect
+         fill="#FFFFFF"
+         height="64.2656"
+         style="stroke:#181818;stroke-width:1;"
+         width="10"
+         x="1174.1128"
+         y="1793.9063"
+         id="rect71" />
+    </g>
+    <polygon
+       fill="#FFAAAA"
+       points="31,98.5938,1209,98.5938,1219,117.5938,1209,136.5938,31,136.5938,21,117.5938,31,98.5938"
+       style="stroke:#181818;stroke-width:0.5;"
+       id="polygon72" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="66.333"
+       x="504.7671"
+       y="114.6606"
+       id="text72">«no-auth»</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="230.5977"
+       x="504.7671"
+       y="129.7935"
+       id="text73">System has no login/authentication</text>
+    <g
+       class="message"
+       data-participant-1="AU"
+       data-participant-2="UX"
+       id="g74">
+      <polygon
+         fill="#181818"
+         points="167.8613,158.9922,177.8613,162.9922,167.8613,166.9922,171.8613,162.9922"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon73" />
+      <line
+         style="stroke:#181818;stroke-width:1;"
+         x1="61.3872"
+         x2="173.8613"
+         y1="162.9922"
+         y2="162.9922"
+         id="line73" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13"
+         lengthAdjust="spacing"
+         textLength="87.5532"
+         x="68.3872"
+         y="157.9263"
+         id="text74">choose &quot;Add&quot;</text>
+    </g>
+    <g
+       class="message"
+       data-participant-1="UX"
+       data-participant-2="MC"
+       id="g75"
+       transform="translate(-0.87216941,20.932066)">
+      <polygon
+         fill="#181818"
+         points="405.478,192.125 401.478,188.125 411.478,192.125 401.478,196.125 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon74" />
+      <line
+         style="stroke:#181818;stroke-width:1"
+         x1="189.8613"
+         x2="407.478"
+         y1="192.125"
+         y2="192.125"
+         id="line74" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="204.6167"
+         x="196.8613"
+         y="187.0591"
+         id="text75">createEmployee(employeeDto)</text>
+    </g>
+    <g
+       class="message"
+       data-participant-1="MC"
+       data-participant-2="SL"
+       id="g76">
+      <polygon
+         fill="#181818"
+         points="613.5171,217.2578,623.5171,221.2578,613.5171,225.2578,617.5171,221.2578"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon75" />
+      <line
+         style="stroke:#181818;stroke-width:1;"
+         x1="423.478"
+         x2="619.5171"
+         y1="221.2578"
+         y2="221.2578"
+         id="line75" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13"
+         lengthAdjust="spacing"
+         textLength="62.3403"
+         x="430.478"
+         y="216.1919"
+         id="text76">validate()</text>
+    </g>
+    <g
+       class="message"
+       data-participant-1="SL"
+       data-participant-2="DAO"
+       id="g77">
+      <polygon
+         fill="#181818"
+         points="825.5562,246.3906,835.5562,250.3906,825.5562,254.3906,829.5562,250.3906"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon76" />
+      <line
+         style="stroke:#181818;stroke-width:1;"
+         x1="635.5171"
+         x2="831.5562"
+         y1="250.3906"
+         y2="250.3906"
+         id="line76" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="108.7925"
+         x="642.51709"
+         y="245.32471"
+         id="text77"
+         style="font-size:13px;font-family:sans-serif;fill:#000000"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           id="tspan145">create(employeeDTO)</tspan></text>
+    </g>
+    <g
+       class="message"
+       data-participant-1="DAO"
+       data-participant-2="DB"
+       id="g79">
+      <polygon
+         fill="#181818"
+         points="1162.1128,290.6563,1172.1128,294.6563,1162.1128,298.6563,1166.1128,294.6563"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon77" />
+      <line
+         style="stroke:#181818;stroke-width:1;"
+         x1="847.5562"
+         x2="1168.1128"
+         y1="294.6563"
+         y2="294.6563"
+         id="line77" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="167.6924"
+         x="854.55621"
+         y="274.45749"
+         id="text78"
+         transform="translate(-1.8195892,-0.90979459)">INSERT INTO employee ...</text>
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13"
+         lengthAdjust="spacing"
+         textLength="77.6826"
+         x="854.5562"
+         y="289.5903"
+         id="text79">VALUES (...)</text>
+      <text
+         xml:space="preserve"
+         id="text140"
+         style="fill:#000000;text-align:start;writing-mode:lr-tb;text-orientation:auto;direction:ltr;white-space:pre;shape-inside:url(#rect140)" />
+      <text
+         xml:space="preserve"
+         id="text143"
+         style="fill:#000000;text-align:start;writing-mode:lr-tb;text-orientation:auto;direction:ltr;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:8px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect143)" />
+      <text
+         xml:space="preserve"
+         id="text145"
+         style="fill:#000000;text-align:start;writing-mode:lr-tb;text-orientation:auto;direction:ltr;-inkscape-font-specification:'Sans, Normal';font-family:Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect145)" />
+      <text
+         xml:space="preserve"
+         id="text148"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect148);shape-padding:3.68562;fill:#000000"><tspan
+           x="435.95508"
+           y="1388.3514"
+           id="tspan1">save(employee)</tspan></text>
+    </g>
+    <path
+       d="M1189,307.6563 L1189,332.6563 L1696,332.6563 L1696,317.6563 L1686,307.6563 L1189,307.6563"
+       fill="#FFFF88"
+       style="stroke:#181818;stroke-width:0.5;"
+       id="path79" />
+    <path
+       d="M1686,307.6563 L1686,317.6563 L1696,317.6563 L1686,307.6563"
+       fill="#FFFF88"
+       style="stroke:#181818;stroke-width:0.5;"
+       id="path80" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="486.5415"
+       x="1195"
+       y="324.7231"
+       id="text80">Sample SQL:\nINSERT INTO employee (name, ssn, salary, ...)\nVALUES (...)</text>
+    <g
+       class="message"
+       data-participant-1="DB"
+       data-participant-2="DAO"
+       id="g81">
+      <polygon
+         fill="#181818"
+         points="858.5562,354.9219,848.5562,358.9219,858.5562,362.9219,854.5562,358.9219"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon80" />
+      <line
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:2.0,2.0;"
+         x1="852.5562"
+         x2="1178.1128"
+         y1="358.9219"
+         y2="358.9219"
+         id="line80" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="72.001503"
+         x="864.55621"
+         y="353.85599"
+         id="text81"
+         style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:8px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">createdEmployeeDto</text>
+    </g>
+    <g
+       class="message"
+       data-participant-1="DAO"
+       data-participant-2="SL"
+       id="g82">
+      <polygon
+         fill="#181818"
+         points="646.5171,384.0547,636.5171,388.0547,646.5171,392.0547,642.5171,388.0547"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon81" />
+      <line
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:2.0,2.0;"
+         x1="640.5171"
+         x2="841.5562"
+         y1="388.0547"
+         y2="388.0547"
+         id="line81" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="72.001503"
+         x="652.51709"
+         y="382.9888"
+         id="text82"
+         style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:8px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">createdEmployeeDto</text>
+    </g>
+    <g
+       class="message"
+       data-participant-1="SL"
+       data-participant-2="MC"
+       id="g83">
+      <polygon
+         fill="#181818"
+         points="434.478,413.1875,424.478,417.1875,434.478,421.1875,430.478,417.1875"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon82" />
+      <line
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:2.0,2.0;"
+         x1="428.478"
+         x2="629.5171"
+         y1="417.1875"
+         y2="417.1875"
+         id="line82" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="72.001503"
+         x="440.478"
+         y="412.12161"
+         id="text83"
+         style="white-space:pre;inline-size:71.7488"
+         xml:space="preserve"><tspan
+           x="440.478"
+           y="412.12161"
+           id="tspan3"><tspan
+             dx="0 -0.69986856 -0.69986856 -0.69986856 -0.69986856 -0.69986951 -0.69986761 -0.69986951 -0.69986761 -0.69986951 -0.69986951 -0.6998657 -0.69986951 -0.69986951 -0.69986951 -0.6998657 -0.69986951 -0.69986951"
+             style="font-size:8px;-inkscape-font-specification:'sans-serif, Normal'"
+             id="tspan2">createdEmployeeDto</tspan></tspan></text>
+    </g>
+    <g
+       class="message"
+       data-participant-1="MC"
+       data-participant-2="UX"
+       id="g84">
+      <polygon
+         fill="#181818"
+         points="200.8613,442.3203,190.8613,446.3203,200.8613,450.3203,196.8613,446.3203"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon83" />
+      <line
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:2.0,2.0;"
+         x1="194.8613"
+         x2="417.478"
+         y1="446.3203"
+         y2="446.3203"
+         id="line83" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="72.001503"
+         x="206.8613"
+         y="441.25439"
+         id="text84"
+         style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:8px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">createdEmployeeDto</text>
+    </g>
+    <g
+       class="message"
+       data-participant-1="UX"
+       data-participant-2="AU"
+       id="g85">
+      <polygon
+         fill="#181818"
+         points="72.3872,471.4531,62.3872,475.4531,72.3872,479.4531,68.3872,475.4531"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon84" />
+      <line
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:2.0,2.0;"
+         x1="66.3872"
+         x2="183.8613"
+         y1="475.4531"
+         y2="475.4531"
+         id="line84" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13"
+         lengthAdjust="spacing"
+         textLength="88.5815"
+         x="78.3872"
+         y="470.3872"
+         id="text85">show success</text>
+    </g>
+    <path
+       d="M157.9424,490.4531 L222.3853,490.4531 L222.3853,497.5859 L212.3853,507.5859 L157.9424,507.5859 L157.9424,490.4531"
+       fill="#EEEEEE"
+       style="stroke:#000000;stroke-width:1.5;"
+       id="path85" />
+    <rect
+       fill="none"
+       height="851.3281"
+       style="stroke:#000000;stroke-width:1.5;"
+       width="1463.8262"
+       x="157.9424"
+       y="490.4531"
+       id="rect85" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="19.4429"
+       x="172.9424"
+       y="503.52"
+       id="text86">alt</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="60.6504"
+       x="237.3853"
+       y="502.6636"
+       id="text87">[byName]</text>
+    <g
+       class="message"
+       data-participant-1="UX"
+       data-participant-2="MC"
+       id="g88">
+      <polygon
+         fill="#181818"
+         points="401.478,524.7188,411.478,528.7188,401.478,532.7188,405.478,528.7188"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon87" />
+      <line
+         style="stroke:#181818;stroke-width:1;"
+         x1="184.8613"
+         x2="407.478"
+         y1="528.7188"
+         y2="528.7188"
+         id="line87" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13"
+         lengthAdjust="spacing"
+         textLength="145.4438"
+         x="191.8613"
+         y="523.6528"
+         id="text88">searchByName(name)</text>
+    </g>
+    <g
+       class="message"
+       data-participant-1="MC"
+       data-participant-2="SL"
+       id="g89">
+      <polygon
+         fill="#181818"
+         points="613.5171,553.8516,623.5171,557.8516,613.5171,561.8516,617.5171,557.8516"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon88" />
+      <line
+         style="stroke:#181818;stroke-width:1;"
+         x1="423.478"
+         x2="619.5171"
+         y1="557.8516"
+         y2="557.8516"
+         id="line88" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13"
+         lengthAdjust="spacing"
+         textLength="145.4438"
+         x="430.478"
+         y="552.7856"
+         id="text89">searchByName(name)</text>
+    </g>
+    <g
+       class="message"
+       data-participant-1="SL"
+       data-participant-2="DAO"
+       id="g90">
+      <polygon
+         fill="#181818"
+         points="825.5562,582.9844,835.5562,586.9844,825.5562,590.9844,829.5562,586.9844"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon89" />
+      <line
+         style="stroke:#181818;stroke-width:1;"
+         x1="635.5171"
+         x2="831.5562"
+         y1="586.9844"
+         y2="586.9844"
+         id="line89" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13"
+         lengthAdjust="spacing"
+         textLength="126.6548"
+         x="642.5171"
+         y="581.9185"
+         id="text90">findByName(name)</text>
+    </g>
+    <g
+       class="message"
+       data-participant-1="DAO"
+       data-participant-2="DB"
+       id="g91">
+      <polygon
+         fill="#181818"
+         points="1162.1128,612.1172,1172.1128,616.1172,1162.1128,620.1172,1166.1128,616.1172"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon90" />
+      <line
+         style="stroke:#181818;stroke-width:1;"
+         x1="847.5562"
+         x2="1168.1128"
+         y1="616.1172"
+         y2="616.1172"
+         id="line90" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13"
+         lengthAdjust="spacing"
+         textLength="201.6714"
+         x="854.5562"
+         y="611.0513"
+         id="text91">SELECT ... WHERE name LIKE ?</text>
+    </g>
+    <path
+       d="M1189,629.1172 L1189,654.1172 L1611,654.1172 L1611,639.1172 L1601,629.1172 L1189,629.1172"
+       fill="#FFFF88"
+       style="stroke:#181818;stroke-width:0.5;"
+       id="path91" />
+    <path
+       d="M1601,629.1172 L1601,639.1172 L1611,639.1172 L1601,629.1172"
+       fill="#FFFF88"
+       style="stroke:#181818;stroke-width:0.5;"
+       id="path92" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="401.7686"
+       x="1195"
+       y="646.1841"
+       id="text92">Sample SQL:\nSELECT * FROM employee WHERE name LIKE ?</text>
+    <g
+       class="message"
+       data-participant-1="DB"
+       data-participant-2="DAO"
+       id="g93">
+      <polygon
+         fill="#181818"
+         points="858.5562,676.3828,848.5562,680.3828,858.5562,684.3828,854.5562,680.3828"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon92" />
+      <line
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:2.0,2.0;"
+         x1="852.5562"
+         x2="1178.1128"
+         y1="680.3828"
+         y2="680.3828"
+         id="line92" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13"
+         lengthAdjust="spacing"
+         textLength="178.0391"
+         x="864.5562"
+         y="675.3169"
+         id="text93">EmployeeDTO[] / not found</text>
+    </g>
+    <g
+       class="message"
+       data-participant-1="DAO"
+       data-participant-2="SL"
+       id="g94">
+      <polygon
+         fill="#181818"
+         points="646.5171,705.5156,636.5171,709.5156,646.5171,713.5156,642.5171,709.5156"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon93" />
+      <line
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:2.0,2.0;"
+         x1="640.5171"
+         x2="841.5562"
+         y1="709.5156"
+         y2="709.5156"
+         id="line93" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13"
+         lengthAdjust="spacing"
+         textLength="178.0391"
+         x="652.5171"
+         y="704.4497"
+         id="text94">EmployeeDTO[] / not found</text>
+    </g>
+    <g
+       class="message"
+       data-participant-1="SL"
+       data-participant-2="MC"
+       id="g95"
+       transform="translate(-23.817166)">
+      <polygon
+         fill="#181818"
+         points="424.478,738.6484 434.478,742.6484 430.478,738.6484 434.478,734.6484 "
+         style="stroke:#181818;stroke-width:1"
+         id="polygon94" />
+      <line
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:2, 2"
+         x1="428.478"
+         x2="629.51709"
+         y1="738.64838"
+         y2="738.64838"
+         id="line94" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="178.03909"
+         x="440.478"
+         y="733.58252"
+         id="text95">EmployeeDTO[] / not found</text>
+    </g>
+    <g
+       class="message"
+       data-participant-1="MC"
+       data-participant-2="UX"
+       id="g96">
+      <polygon
+         fill="#181818"
+         points="195.8613,763.7813,185.8613,767.7813,195.8613,771.7813,191.8613,767.7813"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon95" />
+      <line
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:2.0,2.0;"
+         x1="189.8613"
+         x2="417.478"
+         y1="767.7813"
+         y2="767.7813"
+         id="line95" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13"
+         lengthAdjust="spacing"
+         textLength="178.0391"
+         x="201.8613"
+         y="762.7153"
+         id="text96">EmployeeDTO[] / not found</text>
+    </g>
+    <line
+       style="stroke:#000000;stroke-width:1;stroke-dasharray:2.0,2.0;"
+       x1="157.9424"
+       x2="1621.7686"
+       y1="776.7813"
+       y2="776.7813"
+       id="line96" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="50.1499"
+       x="162.9424"
+       y="786.9917"
+       id="text97">[bySSN]</text>
+    <g
+       class="message"
+       data-participant-1="UX"
+       data-participant-2="MC"
+       id="g98">
+      <polygon
+         fill="#181818"
+         points="401.478,807.7188,411.478,811.7188,401.478,815.7188,405.478,811.7188"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon97" />
+      <line
+         style="stroke:#181818;stroke-width:1;"
+         x1="184.8613"
+         x2="407.478"
+         y1="811.7188"
+         y2="811.7188"
+         id="line97" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13"
+         lengthAdjust="spacing"
+         textLength="118.2378"
+         x="191.8613"
+         y="806.6528"
+         id="text98">searchBySSN(ssn)</text>
+    </g>
+    <g
+       class="message"
+       data-participant-1="MC"
+       data-participant-2="SL"
+       id="g99">
+      <polygon
+         fill="#181818"
+         points="613.5171,836.8516,623.5171,840.8516,613.5171,844.8516,617.5171,840.8516"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon98" />
+      <line
+         style="stroke:#181818;stroke-width:1;"
+         x1="423.478"
+         x2="619.5171"
+         y1="840.8516"
+         y2="840.8516"
+         id="line98" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13"
+         lengthAdjust="spacing"
+         textLength="118.2378"
+         x="430.478"
+         y="835.7856"
+         id="text99">searchBySSN(ssn)</text>
+    </g>
+    <g
+       class="message"
+       data-participant-1="SL"
+       data-participant-2="DAO"
+       id="g100">
+      <polygon
+         fill="#181818"
+         points="825.5562,865.9844,835.5562,869.9844,825.5562,873.9844,829.5562,869.9844"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon99" />
+      <line
+         style="stroke:#181818;stroke-width:1;"
+         x1="635.5171"
+         x2="831.5562"
+         y1="869.9844"
+         y2="869.9844"
+         id="line99" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13"
+         lengthAdjust="spacing"
+         textLength="99.4487"
+         x="642.5171"
+         y="864.9185"
+         id="text100">findBySSN(ssn)</text>
+    </g>
+    <g
+       class="message"
+       data-participant-1="DAO"
+       data-participant-2="DB"
+       id="g101">
+      <polygon
+         fill="#181818"
+         points="1162.1128,895.1172,1172.1128,899.1172,1162.1128,903.1172,1166.1128,899.1172"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon100" />
+      <line
+         style="stroke:#181818;stroke-width:1;"
+         x1="847.5562"
+         x2="1168.1128"
+         y1="899.1172"
+         y2="899.1172"
+         id="line100" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13"
+         lengthAdjust="spacing"
+         textLength="169.6665"
+         x="854.5562"
+         y="894.0513"
+         id="text101">SELECT ... WHERE ssn = ?</text>
+    </g>
+    <path
+       d="M1189,912.1172 L1189,937.1172 L1579,937.1172 L1579,922.1172 L1569,912.1172 L1189,912.1172"
+       fill="#FFFF88"
+       style="stroke:#181818;stroke-width:0.5;"
+       id="path101" />
+    <path
+       d="M1569,912.1172 L1569,922.1172 L1579,922.1172 L1569,912.1172"
+       fill="#FFFF88"
+       style="stroke:#181818;stroke-width:0.5;"
+       id="path102" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="369.7637"
+       x="1195"
+       y="929.1841"
+       id="text102">Sample SQL:\nSELECT * FROM employee WHERE ssn = ?</text>
+    <g
+       class="message"
+       data-participant-1="DB"
+       data-participant-2="DAO"
+       id="g103">
+      <polygon
+         fill="#181818"
+         points="858.5562,959.3828,848.5562,963.3828,858.5562,967.3828,854.5562,963.3828"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon102" />
+      <line
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:2.0,2.0;"
+         x1="852.5562"
+         x2="1178.1128"
+         y1="963.3828"
+         y2="963.3828"
+         id="line102" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13"
+         lengthAdjust="spacing"
+         textLength="167.8955"
+         x="864.5562"
+         y="958.3169"
+         id="text103">EmployeeDTO / not found</text>
+    </g>
+    <g
+       class="message"
+       data-participant-1="DAO"
+       data-participant-2="SL"
+       id="g104">
+      <polygon
+         fill="#181818"
+         points="646.5171,988.5156,636.5171,992.5156,646.5171,996.5156,642.5171,992.5156"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon103" />
+      <line
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:2.0,2.0;"
+         x1="640.5171"
+         x2="841.5562"
+         y1="992.5156"
+         y2="992.5156"
+         id="line103" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13"
+         lengthAdjust="spacing"
+         textLength="167.8955"
+         x="652.5171"
+         y="987.4497"
+         id="text104">EmployeeDTO / not found</text>
+    </g>
+    <g
+       class="message"
+       data-participant-1="SL"
+       data-participant-2="MC"
+       id="g105">
+      <polygon
+         fill="#181818"
+         points="434.478,1017.6484,424.478,1021.6484,434.478,1025.6484,430.478,1021.6484"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon104" />
+      <line
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:2.0,2.0;"
+         x1="428.478"
+         x2="629.5171"
+         y1="1021.6484"
+         y2="1021.6484"
+         id="line104" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13"
+         lengthAdjust="spacing"
+         textLength="167.8955"
+         x="440.478"
+         y="1016.5825"
+         id="text105">EmployeeDTO / not found</text>
+    </g>
+    <g
+       class="message"
+       data-participant-1="MC"
+       data-participant-2="UX"
+       id="g106">
+      <polygon
+         fill="#181818"
+         points="195.8613,1046.7813,185.8613,1050.7813,195.8613,1054.7813,191.8613,1050.7813"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon105" />
+      <line
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:2.0,2.0;"
+         x1="189.8613"
+         x2="417.478"
+         y1="1050.7813"
+         y2="1050.7813"
+         id="line105" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13"
+         lengthAdjust="spacing"
+         textLength="167.8955"
+         x="201.8613"
+         y="1045.7153"
+         id="text106">EmployeeDTO / not found</text>
+    </g>
+    <line
+       style="stroke:#000000;stroke-width:1;stroke-dasharray:2.0,2.0;"
+       x1="157.9424"
+       x2="1621.7686"
+       y1="1059.7813"
+       y2="1059.7813"
+       id="line106" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="63.916"
+       x="162.9424"
+       y="1069.9917"
+       id="text107">[byEmpId]</text>
+    <g
+       class="message"
+       data-participant-1="UX"
+       data-participant-2="MC"
+       id="g108">
+      <polygon
+         fill="#181818"
+         points="401.478,1090.7188,411.478,1094.7188,401.478,1098.7188,405.478,1094.7188"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon107" />
+      <line
+         style="stroke:#181818;stroke-width:1;"
+         x1="184.8613"
+         x2="407.478"
+         y1="1094.7188"
+         y2="1094.7188"
+         id="line107" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13"
+         lengthAdjust="spacing"
+         textLength="152.439"
+         x="191.8613"
+         y="1089.6528"
+         id="text108">searchByEmpId(empId)</text>
+    </g>
+    <g
+       class="message"
+       data-participant-1="MC"
+       data-participant-2="SL"
+       id="g109">
+      <polygon
+         fill="#181818"
+         points="613.5171,1119.8516,623.5171,1123.8516,613.5171,1127.8516,617.5171,1123.8516"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon108" />
+      <line
+         style="stroke:#181818;stroke-width:1;"
+         x1="423.478"
+         x2="619.5171"
+         y1="1123.8516"
+         y2="1123.8516"
+         id="line108" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13"
+         lengthAdjust="spacing"
+         textLength="152.439"
+         x="430.478"
+         y="1118.7856"
+         id="text109">searchByEmpId(empId)</text>
+    </g>
+    <g
+       class="message"
+       data-participant-1="SL"
+       data-participant-2="DAO"
+       id="g110">
+      <polygon
+         fill="#181818"
+         points="825.5562,1148.9844,835.5562,1152.9844,825.5562,1156.9844,829.5562,1152.9844"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon109" />
+      <line
+         style="stroke:#181818;stroke-width:1;"
+         x1="635.5171"
+         x2="831.5562"
+         y1="1152.9844"
+         y2="1152.9844"
+         id="line109" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13"
+         lengthAdjust="spacing"
+         textLength="133.6499"
+         x="642.5171"
+         y="1147.9185"
+         id="text110">findByEmpId(empId)</text>
+    </g>
+    <g
+       class="message"
+       data-participant-1="DAO"
+       data-participant-2="DB"
+       id="g111">
+      <polygon
+         fill="#181818"
+         points="1162.1128,1178.1172,1172.1128,1182.1172,1162.1128,1186.1172,1166.1128,1182.1172"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon110" />
+      <line
+         style="stroke:#181818;stroke-width:1;"
+         x1="847.5562"
+         x2="1168.1128"
+         y1="1182.1172"
+         y2="1182.1172"
+         id="line110" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="188.65871"
+         x="854.55621"
+         y="1177.0513"
+         id="text111">SELECT ... WHERE empId = ?</text>
+    </g>
+    <path
+       d="M1189,1195.1172 L1189,1220.1172 L1598,1220.1172 L1598,1205.1172 L1588,1195.1172 L1189,1195.1172"
+       fill="#FFFF88"
+       style="stroke:#181818;stroke-width:0.5;"
+       id="path111" />
+    <path
+       d="M1588,1195.1172 L1588,1205.1172 L1598,1205.1172 L1588,1195.1172"
+       fill="#FFFF88"
+       style="stroke:#181818;stroke-width:0.5;"
+       id="path112" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="388.75589"
+       x="1195"
+       y="1212.1841"
+       id="text112">Sample SQL:\nSELECT * FROM employee WHERE id = ?</text>
+    <g
+       class="message"
+       data-participant-1="DB"
+       data-participant-2="DAO"
+       id="g113">
+      <polygon
+         fill="#181818"
+         points="858.5562,1242.3828,848.5562,1246.3828,858.5562,1250.3828,854.5562,1246.3828"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon112" />
+      <line
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:2.0,2.0;"
+         x1="852.5562"
+         x2="1178.1128"
+         y1="1246.3828"
+         y2="1246.3828"
+         id="line112" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13"
+         lengthAdjust="spacing"
+         textLength="167.8955"
+         x="864.5562"
+         y="1241.3169"
+         id="text113">EmployeeDTO / not found</text>
+    </g>
+    <g
+       class="message"
+       data-participant-1="DAO"
+       data-participant-2="SL"
+       id="g114">
+      <polygon
+         fill="#181818"
+         points="646.5171,1271.5156,636.5171,1275.5156,646.5171,1279.5156,642.5171,1275.5156"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon113" />
+      <line
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:2.0,2.0;"
+         x1="640.5171"
+         x2="841.5562"
+         y1="1275.5156"
+         y2="1275.5156"
+         id="line113" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13"
+         lengthAdjust="spacing"
+         textLength="167.8955"
+         x="652.5171"
+         y="1270.4497"
+         id="text114">EmployeeDTO / not found</text>
+    </g>
+    <g
+       class="message"
+       data-participant-1="SL"
+       data-participant-2="MC"
+       id="g115">
+      <polygon
+         fill="#181818"
+         points="434.478,1300.6484,424.478,1304.6484,434.478,1308.6484,430.478,1304.6484"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon114" />
+      <line
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:2.0,2.0;"
+         x1="428.478"
+         x2="629.5171"
+         y1="1304.6484"
+         y2="1304.6484"
+         id="line114" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13"
+         lengthAdjust="spacing"
+         textLength="167.8955"
+         x="440.478"
+         y="1299.5825"
+         id="text115">EmployeeDTO / not found</text>
+    </g>
+    <g
+       class="message"
+       data-participant-1="MC"
+       data-participant-2="UX"
+       id="g116">
+      <polygon
+         fill="#181818"
+         points="195.8613,1329.7813,185.8613,1333.7813,195.8613,1337.7813,191.8613,1333.7813"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon115" />
+      <line
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:2.0,2.0;"
+         x1="189.8613"
+         x2="417.478"
+         y1="1333.7813"
+         y2="1333.7813"
+         id="line115" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13"
+         lengthAdjust="spacing"
+         textLength="167.8955"
+         x="201.8613"
+         y="1328.7153"
+         id="text116">EmployeeDTO / not found</text>
+    </g>
+    <g
+       class="message"
+       data-participant-1="UX"
+       data-participant-2="MC"
+       id="g117">
+      <polygon
+         fill="#181818"
+         points="401.478,1365.9141,411.478,1369.9141,401.478,1373.9141,405.478,1369.9141"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon116" />
+      <line
+         style="stroke:#181818;stroke-width:1;"
+         x1="184.8613"
+         x2="407.478"
+         y1="1369.9141"
+         y2="1369.9141"
+         id="line116" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="158.95799"
+         x="191.8613"
+         y="1364.8481"
+         id="text117"
+         style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:8px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">updateEmployee(id, employeeDto)</text>
+    </g>
+    <g
+       class="message"
+       data-participant-1="MC"
+       data-participant-2="SL"
+       id="g118">
+      <polygon
+         fill="#181818"
+         points="613.5171,1395.0469,623.5171,1399.0469,613.5171,1403.0469,617.5171,1399.0469"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon117" />
+      <line
+         style="stroke:#181818;stroke-width:1;"
+         x1="423.478"
+         x2="619.5171"
+         y1="1399.0469"
+         y2="1399.0469"
+         id="line117" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="113.0454"
+         x="430.478"
+         y="1393.981"
+         id="text118"
+         style="white-space:pre;inline-size:186.591"
+         xml:space="preserve" />
+    </g>
+    <g
+       class="message"
+       data-participant-1="SL"
+       data-participant-2="DAO"
+       id="g119">
+      <polygon
+         fill="#181818"
+         points="825.5562,1424.1797,835.5562,1428.1797,825.5562,1432.1797,829.5562,1428.1797"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon118" />
+      <line
+         style="stroke:#181818;stroke-width:1;"
+         x1="635.5171"
+         x2="831.5562"
+         y1="1428.1797"
+         y2="1428.1797"
+         id="line118" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="113.0454"
+         x="642.51709"
+         y="1423.1138"
+         id="text119"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           id="tspan148">save(employee)</tspan></text>
+    </g>
+    <g
+       class="message"
+       data-participant-1="DAO"
+       data-participant-2="DB"
+       id="g120">
+      <polygon
+         fill="#181818"
+         points="1162.1128,1453.3125,1172.1128,1457.3125,1162.1128,1461.3125,1166.1128,1457.3125"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon119" />
+      <line
+         style="stroke:#181818;stroke-width:1;"
+         x1="847.5562"
+         x2="1168.1128"
+         y1="1457.3125"
+         y2="1457.3125"
+         id="line119" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="288.9707"
+         x="854.55621"
+         y="1452.2466"
+         id="text120">UPDATE employee SET ... WHERE id= ?</text>
+    </g>
+    <path
+       d="M1189,1470.3125 L1189,1495.3125 L1594,1495.3125 L1594,1480.3125 L1584,1470.3125 L1189,1470.3125"
+       fill="#FFFF88"
+       style="stroke:#181818;stroke-width:0.5;"
+       id="path120" />
+    <path
+       d="M1584,1470.3125 L1584,1480.3125 L1594,1480.3125 L1584,1470.3125"
+       fill="#FFFF88"
+       style="stroke:#181818;stroke-width:0.5;"
+       id="path121" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="384.57281"
+       x="1195"
+       y="1487.3794"
+       id="text121">Sample SQL:\nUPDATE employee SET ... WHERE id = ?</text>
+    <g
+       class="message"
+       data-participant-1="DB"
+       data-participant-2="DAO"
+       id="g122">
+      <polygon
+         fill="#181818"
+         points="858.5562,1517.5781,848.5562,1521.5781,858.5562,1525.5781,854.5562,1521.5781"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon121" />
+      <line
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:2.0,2.0;"
+         x1="852.5562"
+         x2="1178.1128"
+         y1="1521.5781"
+         y2="1521.5781"
+         id="line121" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="89.006798"
+         x="864.55621"
+         y="1516.5122"
+         id="text122"
+         style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.6667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">updatedEmployeeDto</text>
+    </g>
+    <g
+       class="message"
+       data-participant-1="DAO"
+       data-participant-2="SL"
+       id="g123">
+      <polygon
+         fill="#181818"
+         points="646.5171,1546.7109,636.5171,1550.7109,646.5171,1554.7109,642.5171,1550.7109"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon122" />
+      <line
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:2.0,2.0;"
+         x1="640.5171"
+         x2="841.5562"
+         y1="1550.7109"
+         y2="1550.7109"
+         id="line122" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="89.006798"
+         x="652.51709"
+         y="1545.645"
+         id="text123"
+         style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.6667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">updatedEmployeeDto</text>
+    </g>
+    <g
+       class="message"
+       data-participant-1="SL"
+       data-participant-2="MC"
+       id="g124">
+      <polygon
+         fill="#181818"
+         points="434.478,1575.8438,424.478,1579.8438,434.478,1583.8438,430.478,1579.8438"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon123" />
+      <line
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:2.0,2.0;"
+         x1="428.478"
+         x2="629.5171"
+         y1="1579.8438"
+         y2="1579.8438"
+         id="line123" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="89.006798"
+         x="440.478"
+         y="1574.7778"
+         id="text124"
+         style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.6667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">updatedEmployeeDto</text>
+    </g>
+    <g
+       class="message"
+       data-participant-1="MC"
+       data-participant-2="UX"
+       id="g125">
+      <polygon
+         fill="#181818"
+         points="195.8613,1604.9766,185.8613,1608.9766,195.8613,1612.9766,191.8613,1608.9766"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon124" />
+      <line
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:2.0,2.0;"
+         x1="189.8613"
+         x2="417.478"
+         y1="1608.9766"
+         y2="1608.9766"
+         id="line124" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13px"
+         lengthAdjust="spacing"
+         textLength="89.006798"
+         x="201.8613"
+         y="1603.9106"
+         id="text125"
+         style="white-space:pre;inline-size:112.557"
+         xml:space="preserve"><tspan
+           x="201.8613"
+           y="1603.9106"
+           id="tspan5"><tspan
+             dx="0 -1.591727 -1.591727 -1.5917275 -1.591727 -1.591727 -1.5917265 -1.5917284 -1.5917261 -1.591727 -1.5917284 -1.5917242 -1.5917275 -1.5917294 -1.5917284 -1.5917246 -1.591728 -1.5917232"
+             style="font-size:10.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+             id="tspan4">updatedEmployeeDto</tspan></tspan></text>
+    </g>
+    <g
+       class="message"
+       data-participant-1="UX"
+       data-participant-2="AU"
+       id="g126">
+      <polygon
+         fill="#181818"
+         points="72.3872,1634.1094,62.3872,1638.1094,72.3872,1642.1094,68.3872,1638.1094"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon125" />
+      <line
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:2.0,2.0;"
+         x1="66.3872"
+         x2="183.8613"
+         y1="1638.1094"
+         y2="1638.1094"
+         id="line125" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13"
+         lengthAdjust="spacing"
+         textLength="99.4741"
+         x="78.3872"
+         y="1633.0435"
+         id="text126">confirm update</text>
+    </g>
+    <path
+       d="M10,1653.1094 L86.624,1653.1094 L86.624,1660.2422 L76.624,1670.2422 L10,1670.2422 L10,1653.1094"
+       fill="#EEEEEE"
+       style="stroke:#000000;stroke-width:1.5;"
+       id="path126" />
+    <rect
+       fill="none"
+       height="329.5938"
+       style="stroke:#000000;stroke-width:1.5;"
+       width="1856.6104"
+       x="10"
+       y="1653.1094"
+       id="rect126" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="31.624"
+       x="25"
+       y="1666.1763"
+       id="text127">loop</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="11"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="249.2295"
+       x="101.624"
+       y="1665.3198"
+       id="text128">[each emp where salary ≥ min ∧ &lt; max]</text>
+    <g
+       class="message"
+       data-participant-1="UX"
+       data-participant-2="MC"
+       id="g129">
+      <polygon
+         fill="#181818"
+         points="401.478,1687.375,411.478,1691.375,401.478,1695.375,405.478,1691.375"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon128" />
+      <line
+         style="stroke:#181818;stroke-width:1;"
+         x1="184.8613"
+         x2="407.478"
+         y1="1691.375"
+         y2="1691.375"
+         id="line128" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13"
+         lengthAdjust="spacing"
+         textLength="171.1646"
+         x="191.8613"
+         y="1686.3091"
+         id="text129">applyRaise(pct, min, max)</text>
+    </g>
+    <g
+       class="message"
+       data-participant-1="MC"
+       data-participant-2="SL"
+       id="g130">
+      <polygon
+         fill="#181818"
+         points="613.5171,1716.5078,623.5171,1720.5078,613.5171,1724.5078,617.5171,1720.5078"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon129" />
+      <line
+         style="stroke:#181818;stroke-width:1;"
+         x1="423.478"
+         x2="619.5171"
+         y1="1720.5078"
+         y2="1720.5078"
+         id="line129" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13"
+         lengthAdjust="spacing"
+         textLength="171.1646"
+         x="430.478"
+         y="1715.4419"
+         id="text130">applyRaise(pct, min, max)</text>
+    </g>
+    <g
+       class="message"
+       data-participant-1="SL"
+       data-participant-2="DAO"
+       id="g131">
+      <polygon
+         fill="#181818"
+         points="825.5562,1745.6406,835.5562,1749.6406,825.5562,1753.6406,829.5562,1749.6406"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon130" />
+      <line
+         style="stroke:#181818;stroke-width:1;"
+         x1="635.5171"
+         x2="831.5562"
+         y1="1749.6406"
+         y2="1749.6406"
+         id="line130" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13"
+         lengthAdjust="spacing"
+         textLength="163.0205"
+         x="642.5171"
+         y="1744.5747"
+         id="text131">bulkRaise(pct, min, max)</text>
+    </g>
+    <g
+       class="message"
+       data-participant-1="DAO"
+       data-participant-2="DB"
+       id="g133">
+      <polygon
+         fill="#181818"
+         points="1162.1128,1789.9063,1172.1128,1793.9063,1162.1128,1797.9063,1166.1128,1793.9063"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon131" />
+      <line
+         style="stroke:#181818;stroke-width:1;"
+         x1="847.5562"
+         x2="1168.1128"
+         y1="1793.9063"
+         y2="1793.9063"
+         id="line131" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13"
+         lengthAdjust="spacing"
+         textLength="307.5566"
+         x="854.5562"
+         y="1773.7075"
+         id="text132">UPDATE employee SET salary = salary*(1+pct)</text>
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13"
+         lengthAdjust="spacing"
+         textLength="269.8706"
+         x="854.5562"
+         y="1788.8403"
+         id="text133">WHERE salary &gt;= min AND salary &lt; max</text>
+    </g>
+    <path
+       d="M1189,1806.9063 L1189,1831.9063 L1856,1831.9063 L1856,1816.9063 L1846,1806.9063 L1189,1806.9063"
+       fill="#FFFF88"
+       style="stroke:#181818;stroke-width:0.5;"
+       id="path133" />
+    <path
+       d="M1846,1806.9063 L1846,1816.9063 L1856,1816.9063 L1846,1806.9063"
+       fill="#FFFF88"
+       style="stroke:#181818;stroke-width:0.5;"
+       id="path134" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="13"
+       lengthAdjust="spacing"
+       textLength="646.6104"
+       x="1195"
+       y="1823.9731"
+       id="text134">Sample SQL:\nUPDATE employee SET salary = salary*(1+pct)\nWHERE salary &gt;= ? AND salary &lt; ?</text>
+    <g
+       class="message"
+       data-participant-1="DB"
+       data-participant-2="DAO"
+       id="g135">
+      <polygon
+         fill="#181818"
+         points="858.5562,1854.1719,848.5562,1858.1719,858.5562,1862.1719,854.5562,1858.1719"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon134" />
+      <line
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:2.0,2.0;"
+         x1="852.5562"
+         x2="1178.1128"
+         y1="1858.1719"
+         y2="1858.1719"
+         id="line134" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13"
+         lengthAdjust="spacing"
+         textLength="36.6768"
+         x="864.5562"
+         y="1853.106"
+         id="text135">count</text>
+    </g>
+    <g
+       class="message"
+       data-participant-1="DAO"
+       data-participant-2="SL"
+       id="g136">
+      <polygon
+         fill="#181818"
+         points="646.5171,1883.3047,636.5171,1887.3047,646.5171,1891.3047,642.5171,1887.3047"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon135" />
+      <line
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:2.0,2.0;"
+         x1="640.5171"
+         x2="841.5562"
+         y1="1887.3047"
+         y2="1887.3047"
+         id="line135" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13"
+         lengthAdjust="spacing"
+         textLength="36.6768"
+         x="652.5171"
+         y="1882.2388"
+         id="text136">count</text>
+    </g>
+    <g
+       class="message"
+       data-participant-1="SL"
+       data-participant-2="MC"
+       id="g137">
+      <polygon
+         fill="#181818"
+         points="434.478,1912.4375,424.478,1916.4375,434.478,1920.4375,430.478,1916.4375"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon136" />
+      <line
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:2.0,2.0;"
+         x1="428.478"
+         x2="629.5171"
+         y1="1916.4375"
+         y2="1916.4375"
+         id="line136" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13"
+         lengthAdjust="spacing"
+         textLength="36.6768"
+         x="440.478"
+         y="1911.3716"
+         id="text137">count</text>
+    </g>
+    <g
+       class="message"
+       data-participant-1="MC"
+       data-participant-2="UX"
+       id="g138">
+      <polygon
+         fill="#181818"
+         points="195.8613,1941.5703,185.8613,1945.5703,195.8613,1949.5703,191.8613,1945.5703"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon137" />
+      <line
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:2.0,2.0;"
+         x1="189.8613"
+         x2="417.478"
+         y1="1945.5703"
+         y2="1945.5703"
+         id="line137" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13"
+         lengthAdjust="spacing"
+         textLength="36.6768"
+         x="201.8613"
+         y="1940.5044"
+         id="text138">count</text>
+    </g>
+    <g
+       class="message"
+       data-participant-1="UX"
+       data-participant-2="AU"
+       id="g139">
+      <polygon
+         fill="#181818"
+         points="72.3872,1970.7031,62.3872,1974.7031,72.3872,1978.7031,68.3872,1974.7031"
+         style="stroke:#181818;stroke-width:1;"
+         id="polygon138" />
+      <line
+         style="stroke:#181818;stroke-width:1;stroke-dasharray:2.0,2.0;"
+         x1="66.3872"
+         x2="183.8613"
+         y1="1974.7031"
+         y2="1974.7031"
+         id="line138" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="13"
+         lengthAdjust="spacing"
+         textLength="99.0742"
+         x="78.3872"
+         y="1969.6372"
+         id="text139">show summary</text>
+    </g>
+    <!--SRC=[xPVDRjiu4CVlUeg1UwZIEYbwAueaXHpBsA2oqqRsRe7j7cY9heYLI46Iu_eDskE-mNvWqKCVeRS-IfvaXxJaMXzK9IJeQNsmBSr_XkJCp-FHGt3OYeQCqzGWNYOIiFo8yKLA4o0fM0iZ9ad6F1OJdi7YZRovU5EwEIMCNmYU9I8CTrxJYvB0fSaDywX3jZkpwvJCO-jAtiKFmoSPMPAKmc2wTLyxuz50MKPmUbgOpiyDuo7C191r5b2EKKZ610SkCce4yXt43QvZBORezs0oiV1b07pzpCMnzFdw1Q_SRPhH20ACpWM4uXtZJye13SfzKF7aUhT__0cN79EIWHt5eTXIQYp5UnWq60RmOAnUk0xWFk3uN2RkENY14F9ibkyFb0qJpcu8xXWpAgzHXThf1MhJzJ9YsOnkYgWcZUBn_Egex8YPbjVeWewkWuut96IOAsfMb9XqUOqQLCgKutuIAeMDWMKrv0sfb0uZr5_ENFjwZX_pAw3vjk3avEGj_zbo5hOB9bvKuupKjQfBmju56OWLx0epcJnxfeouAuBXS8-ldUTlUUCo9YSH7KAQSdmZ8KcsGxdqKSFQid2gRch_8pZU7vZJZOnuwIkJJwkxL8Sj4gaNvwcHgIpAfHNdQPS5AZ3GQlDYIWfGY-0W1e7O80kUHzEqAaTev54HmnsXV-4FZIHUi0SHJ19ci4emSqS5hJLHcLRfiDpEq2ElJ1bAvJfITbMGexsgUeWAbLqyyrHLALqnxhSx5WMfykhQZdqnbvZ0Bp_PrpP8Vt0kNzhmeY7AQ7_lExJMYCqNUWIJwwlfDsRrYvOGhM5Qb0P_bR_-1a-a4bPYpVszl8vk3Tz-GGuoU8Xrho07zJl4lLUCd1uQOfzSRbrtreOXcari2BqXrFkr8gXtwmmWkiFPZuIlkc1dyEu1ktk0xkx8zGFEthTb3N9AOAhktHkxTjzMzDfTE-E70PZ_Om6iB_a_WXe4qLhwF_yR5h6Sv6eJPyrG_W-lJP4xTTS1SjsYRXWYs-HDG-JYrTYQszymSMqzeNUP8lkievyO4x59ZybgHRsCTfeQsnqQ9iTMXuRfiLNVC45wWgzO4kLr-juC-G-Crk7lc4avOSCrOUcUkWPJcRjGY1WmT22p2vk09ZGVrU7sux-0JvLm- -4Jd494tZVrM1B7uLR5DMCl6qg7eTHsRhGz0cYwxH9Fs2s0hkSsOPSduIp_yiXy-XZ3uwDB_X-zCv-VgHHPit5nfvof-sZLTzhTY_BUkdPq3_jUrgT_wnqqtLhheEdDMlq1LWqFOL641szoov_U3nhuVm00]-->
+  </g>
+</svg>
