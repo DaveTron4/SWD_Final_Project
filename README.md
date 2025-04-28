@@ -4,7 +4,7 @@
 **Team Members:**
 - David Salas C.
 - Herman Acosta
-- [Name 3]
+- Dev Vyas
 - [Name 4]
 - [Name 5]
 
