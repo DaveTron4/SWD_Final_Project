@@ -1,12 +1,13 @@
 package net.finalSWDProject.ems.controller;
 
 
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 import net.finalSWDProject.ems.service.EmployeeService;
 import lombok.AllArgsConstructor;
 
+import java.math.BigDecimal;
 import java.util.List;
+import java.util.Map;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -19,6 +20,8 @@ import org.springframework.web.bind.annotation.PutMapping;
 
 import net.finalSWDProject.ems.dto.EmployeeDto;
 import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestParam;
+import net.finalSWDProject.ems.dto.EmployeeWithPayHistoryDto;
 
 @CrossOrigin("*")
 @AllArgsConstructor
@@ -64,4 +67,55 @@ public class EmployeeController {
         employeeService.deleteEmployee(id);
         return ResponseEntity.ok("Employee deleted successfully!");
     }
+
+    // Build Search Employees by Name REST API
+    @GetMapping("/search/name")
+    public ResponseEntity<List<EmployeeDto>> searchEmployeesByName(@RequestParam("name") String name) {
+        List<EmployeeDto> employees = employeeService.searchEmployeesByName(name);
+        return ResponseEntity.ok(employees);
+    }
+
+    // Build Search Employee by SSN REST API
+    @GetMapping("/search/ssn")
+    public ResponseEntity<EmployeeDto> searchEmployeeBySsn(@RequestParam("ssn") String ssn) {
+        EmployeeDto employeeDto = employeeService.searchEmployeeBySsn(ssn);
+        return ResponseEntity.ok(employeeDto);
+    }
+
+    // Build Conditional Salary Update REST API
+    @PostMapping("/update-salary-conditional")
+    public ResponseEntity<List<EmployeeDto>> applyConditionalSalaryIncrease(
+            @RequestParam BigDecimal minSalary,
+            @RequestParam BigDecimal maxSalary,
+            @RequestParam double percentage) {
+        List<EmployeeDto> updatedEmployees = employeeService.applyConditionalSalaryIncrease(minSalary, maxSalary, percentage);
+        return ResponseEntity.ok(updatedEmployees);
+    }
+
+    // --- Report Endpoints --- 
+
+    // Report 1: Employee Info with Pay History is partially covered by getEmployeeById.
+    // A more specific endpoint/service method would be needed if 'pay history' is complex.
+
+    // Report 2: Total Pay by Job Title REST API
+    @GetMapping("/reports/salary-by-job-title")
+    public ResponseEntity<Map<String, BigDecimal>> getTotalMonthlySalaryByJobTitle() {
+        Map<String, BigDecimal> reportData = employeeService.getTotalMonthlySalaryByJobTitle();
+        return ResponseEntity.ok(reportData);
+    }
+
+    // Report 3: Total Pay by Division REST API
+    @GetMapping("/reports/salary-by-division")
+    public ResponseEntity<Map<String, BigDecimal>> getTotalMonthlySalaryByDivision() {
+        Map<String, BigDecimal> reportData = employeeService.getTotalMonthlySalaryByDivision();
+        return ResponseEntity.ok(reportData);
+    }
+
+    // Report 1: Get Employee Info with Pay History
+    @GetMapping("/{id}/pay-history")
+    public ResponseEntity<EmployeeWithPayHistoryDto> getEmployeeWithPayHistory(@PathVariable("id") Long id) {
+        EmployeeWithPayHistoryDto employeeDto = employeeService.getEmployeeWithPayHistory(id);
+        return ResponseEntity.ok(employeeDto);
+    }
+
 }

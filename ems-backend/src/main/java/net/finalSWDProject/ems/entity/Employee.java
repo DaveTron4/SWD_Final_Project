@@ -10,6 +10,9 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
+import java.math.BigDecimal;
+import java.time.LocalDate;
+
 
 @Getter
 @Setter
@@ -31,5 +34,20 @@ public class Employee {
 
     @Column(name = "email_id", nullable = false, unique = true)
     private String email;
+
+    @Column(name = "ssn", nullable = false, unique = true, length = 9)
+    private String ssn;
+
+    @Column(name = "salary", nullable = false, precision = 10, scale = 2)
+    private BigDecimal salary;
+
+    @Column(name = "job_title", nullable = false)
+    private String jobTitle;
+
+    @Column(name = "division", nullable = false)
+    private String division;
+
+    @Column(name = "hire_date", nullable = false)
+    private LocalDate hireDate;
 
 }

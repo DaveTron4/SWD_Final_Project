@@ -1,14 +1,8 @@
 import React from 'react'
 
 const FooterComponent = () => {
-  return (
-    <div>
-        <footer className="footer">
-            <span>All Rights Reserved 2023 @Employee Management System</span>
-        </footer>
-
-    </div>
-  )
+  // Render nothing to effectively remove the footer
+  return null; 
 }
 
 export default FooterComponent

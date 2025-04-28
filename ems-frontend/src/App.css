@@ -1,9 +1,281 @@
-.footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  background-color: black;
-  text-align: center;
-  color: white;
+:root {
+  --dark-bg: #1a1a1a; /* Very dark gray, almost black */
+  --primary-blue: #007bff; /* Standard Bootstrap blue */
+  --light-text: #ffffff; /* Changed to pure white */
+  --card-bg: #2b2b2b; /* Slightly lighter dark for cards */
+  --border-color: #444; /* Darker border color */
+  --hover-blue: #0056b3; /* Darker blue for hover */
+  --input-text-dark: #212529; /* Dark color for text inside white inputs */
+}
 
+html {
+  background-color: var(--dark-bg);
+  min-height: 100%; /* Ensure html takes full height */
+}
+
+body {
+  background-color: var(--dark-bg); /* Keep for redundancy */
+  color: var(--light-text); /* Default text color is white */
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  margin: 0;
+  position: relative;
+  min-height: 100vh; /* Ensure body takes full viewport height */
+}
+
+/* Target potential React root element if body doesn't cover everything */
+#root {
+  background-color: var(--dark-bg);
+  color: var(--light-text); /* Ensure root container also defaults to white text */
+  min-height: 100vh; /* Ensure root takes full height */
+}
+
+/* Basic Fade-in Animation */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.fade-in {
+  animation: fadeIn 0.5s ease-out forwards;
+}
+
+/* General Container Style */
+.container {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+/* Card Styling */
+.card {
+  background-color: var(--card-bg) !important; /* Reinforce dark background */
+  border: 1px solid var(--border-color);
+  margin-bottom: 1.5rem; /* Consistent spacing */
+  color: var(--light-text); /* Default text color for card content */
+}
+
+.card-header {
+  background-color: #333 !important; /* Reinforce dark header */
+  color: var(--primary-blue) !important; /* Reinforce blue text */
+  border-bottom: 1px solid var(--border-color);
+  font-weight: bold;
+}
+
+/* Ensure card titles are white */
+.card .card-header h2,
+.card .card-body h2,
+.card h2.text-center { /* Target the specific h2 in ConditionalSalaryUpdateComponent */
+    color: var(--light-text) !important;
+}
+
+.card-body {
+  color: var(--light-text) !important; /* Reinforce white text */
+}
+
+/* Form labels within cards */
+.card .form-label {
+    color: var(--light-text) !important; /* Reinforce white labels */
+}
+
+/* Table Styling */
+.table {
+  background-color: var(--card-bg); 
+  color: var(--light-text); /* Ensure table text is white */
+  border: 1px solid var(--border-color);
+}
+
+.table thead th {
+  background-color: #333; /* Match card header */
+  color: var(--primary-blue);
+  border-color: var(--border-color);
+  border-bottom-width: 2px;
+  text-align: center; /* Center headers */
+}
+
+.table tbody tr {
+  transition: background-color 0.2s ease-in-out;
+}
+
+.table tbody tr:hover {
+  background-color: #3a3a3a; /* Subtle hover for rows */
+  cursor: default; /* Indicate rows aren't clickable unless specific actions are */
+}
+
+.table td, .table th {
+  border-color: var(--border-color);
+  vertical-align: middle; /* Align cell content vertically */
+  color: var(--light-text); /* Explicitly set table cell text to white */
+}
+
+/* Explicitly set background for body cells */
+.table tbody td {
+    background-color: var(--card-bg); /* Match card background */
+    color: var(--light-text); /* Ensure text is white */
+}
+
+/* Ensure hover still works */
+.table tbody tr:hover td {
+  background-color: #3a3a3a; /* Match row hover color */
+}
+
+/* Button Styling */
+.btn {
+  transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, transform 0.1s ease-in-out;
+  border-radius: 0.25rem; /* Slightly rounded corners */
+}
+
+.btn:hover {
+    transform: translateY(-1px); /* Subtle lift effect */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.btn-primary {
+  background-color: var(--primary-blue);
+  border-color: var(--primary-blue);
+  color: white;
+}
+.btn-primary:hover {
+  background-color: var(--hover-blue);
+  border-color: var(--hover-blue);
+  color: white;
+}
+
+.btn-secondary {
+  background-color: #5a5a5a;
+  border-color: #5a5a5a;
+  color: white;
+}
+.btn-secondary:hover {
+  background-color: #4a4a4a;
+  border-color: #4a4a4a;
+  color: white;
+}
+
+.btn-info {
+  background-color: #17a2b8; /* Bootstrap info blue */
+  border-color: #17a2b8;
+  color: white;
+}
+.btn-info:hover {
+  background-color: #117a8b;
+  border-color: #117a8b;
+  color: white;
+}
+
+.btn-danger {
+  background-color: #dc3545; /* Bootstrap danger red */
+  border-color: #dc3545;
+  color: white;
+}
+.btn-danger:hover {
+  background-color: #c82333;
+  border-color: #bd2130;
+  color: white;
+}
+
+.btn-outline-secondary {
+    color: var(--light-text);
+    border-color: #5a5a5a;
+}
+.btn-outline-secondary:hover {
+    background-color: #5a5a5a;
+    color: white;
+}
+
+/* Form Input Styling */
+.form-control {
+  background-color: #ffffff; /* White background for inputs */
+  color: var(--input-text-dark); /* Dark text for inputs */
+  border: 1px solid var(--border-color);
+}
+
+.form-control:focus {
+  background-color: #ffffff; /* Keep white on focus */
+  color: var(--input-text-dark); /* Keep dark text on focus */
+  border-color: var(--primary-blue); /* Blue border */
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25); /* Blue focus glow */
+}
+
+.form-control::placeholder {
+  color: #6c757d; /* Standard Bootstrap placeholder color */
+}
+
+.form-label {
+    margin-bottom: 0.5rem;
+    font-weight: 500; /* Slightly bolder labels */
+    color: var(--light-text); /* Ensure labels are white */
+}
+
+.form-control.is-invalid {
+    border-color: #dc3545; /* Keep invalid border red */
+}
+.invalid-feedback {
+    color: #dc3545; /* Keep invalid feedback red */
+}
+
+/* Footer Styling - REMOVED */
+/* 
+.footer {
+    ...
+}
+*/
+
+/* Adjust body padding if footer is not absolute - REMOVED related rules */
+body {
+  /* padding-bottom: 80px; */ /* Remove if footer is not absolute */
+  /* display: flex; */ /* Revert flex layout if not needed */
+  /* flex-direction: column; */
+  /* Keep other body styles */
+  background-color: var(--dark-bg); 
+  color: var(--light-text);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  margin: 0;
+  position: relative; /* Keep if needed for other elements */
+  min-height: 100vh; 
+}
+
+#root {
+  /* flex-grow: 1; */ /* Remove if flex layout is reverted */
+  /* Keep other #root styles */
+  background-color: var(--dark-bg);
+  /* min-height: calc(100vh - 60px); */ /* Remove or adjust if footer is gone */
+   min-height: 100vh; /* Ensure root takes full height */
+}
+
+/* Apply fade-in to main component containers */
+/* ... fade-in rules ... */
+
+/* --- Specific Component Adjustments --- */
+
+/* Header/Navbar */
+.navbar {
+    margin-bottom: 1rem; /* Space below navbar */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2); /* Subtle shadow */
+}
+.navbar-brand {
+    color: var(--primary-blue) !important; /* Important to override bootstrap */
+    font-weight: bold;
+}
+.nav-link {
+    color: var(--light-text) !important;
+    transition: color 0.2s ease-in-out;
+    padding: 0.5rem 1rem;
+}
+.nav-link:hover, .nav-link.active {
+    color: var(--primary-blue) !important; 
+}
+
+/* ListEmployeeComponent */
+.list-employee-search .col-md-3 {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.list-employee-search .form-control {
+    margin-bottom: 5px;
+}
+
+
+/* EmployeeDetailComponent */
+.employee-detail-info p {
+    margin-bottom: 0.75rem;
+    color: var(--light-text);
 }
