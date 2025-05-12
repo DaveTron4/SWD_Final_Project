@@ -1,6 +1,6 @@
 # 📋 Employee Management System – Final Project
 
-## 👥 Team Name: [Your Team Name]
+## 👥 Team Name: The Code Crafters
 **Team Members:**
 - David Salas C.
 - Herman Acosta
