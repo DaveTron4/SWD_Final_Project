@@ -5,8 +5,8 @@
 - David Salas C.
 - Herman Acosta
 - Dev Vyas
-- [Name 4]
-- [Name 5]
+- Chirag Dwivedi
+- Francisco Vazquez
 
 ---
 
@@ -81,22 +81,6 @@ The system focuses on enabling data entry, updates, basic search, and the genera
 
 ---
 
-## 🔄 Programming Tasks Breakdown
-
-| Task ID | Task Description | Assigned To | Status |
-|--------|------------------|-------------|--------|
-| PT-1 | Insert New Employee | [Name] | ✅ |
-| PT-2 | Search Employee by name/SSN/ID | [Name] | ✅ |
-| PT-3 | Update Employee Info | [Name] | ✅ |
-| PT-4 | Apply Salary Increase (based on % + range) | [Name] | ✅ |
-| UML-1 | Use Case Diagram - System | [Name] | ✅ |
-| UML-2 | Use Case Diagram - Reporting | David Salas C. | ✅ |
-| UML-3 | Class Diagram | [Name] | ✅ |
-| UML-4 | Sequence Diagram - System | [Name] | ✅ |
-| UML-5 | Sequence Diagram - Reporting | [Name] | ✅ |
-
----
-
 ## ✅ Test Cases Overview
 
 ### Test Case A - Update Employee Info
@@ -126,19 +110,6 @@ The system focuses on enabling data entry, updates, basic search, and the genera
 
 ---
 
-## 📄 Report (PDF)
-
-- Includes:
-  - TOC
-  - Use Case Diagrams
-  - Class Diagram
-  - Sequence Diagrams
-  - Programming Task Breakdown
-  - Test Cases
-  - Team Contributions
-
----
-
 ## 🗓️ Timeline (Key Dates)
 
 | Task | Due Date |
@@ -156,15 +127,3 @@ The system focuses on enabling data entry, updates, basic search, and the genera
 - All employee data handled in real-time using Java and MySQL.
 - No hand-drawn diagrams allowed; all diagrams are digitally created.
 - Ensure all deliverables are well-organized and zipped before submission.
-
----
-
-## 🔗 Resources
-
-- [MySQL Documentation](https://dev.mysql.com/doc/)
-- [JavaFX Docs](https://openjfx.io/)
-- [JDBC Tutorial](https://docs.oracle.com/javase/tutorial/jdbc/)
-- [Draw.io UML Tool](https://app.diagrams.net/)
-
----
-
