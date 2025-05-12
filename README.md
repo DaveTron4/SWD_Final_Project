@@ -105,8 +105,7 @@ The system focuses on enabling data entry, updates, basic search, and the genera
 
 ## 📽️ Final Demo Video
 
-- **Link to video:** [Google Drive / YouTube Link Here]
-- **Format:** MP4 / WebM / MOV
+[Video](https://drive.google.com/file/d/1I-iGPDvegupxfNxXYpZvhNTAU97dsqmi/view?usp=sharing)
 
 ---
 
