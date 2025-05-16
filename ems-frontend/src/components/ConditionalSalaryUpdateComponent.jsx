@@ -54,7 +54,6 @@ const ConditionalSalaryUpdateComponent = () => {
         <div className='container mt-4'>
             <div className='row'>
                 <div className='card col-md-8 offset-md-2'>
-                    <button className='btn btn-link' onClick={() => navigator('/employees')} style={{ position: 'absolute', top: '10px', left: '10px', color: 'var(--primary-blue)', textDecoration: 'none' }}>&larr; Back to List</button>
                     <h2 className='text-center mt-3'>Apply Conditional Salary Increase</h2>
                     <div className='card-body'>
                         <form onSubmit={handleUpdate}>

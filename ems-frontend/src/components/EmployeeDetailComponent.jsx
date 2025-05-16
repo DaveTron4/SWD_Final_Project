@@ -41,9 +41,8 @@ const EmployeeDetailComponent = () => {
 
     return (
         <div className='container mt-4'>
-            <button className='btn btn-secondary mb-3' onClick={() => navigator('/employees')}>Back to List</button>
-            
             <div className='card mb-4'>
+            <button className='btn btn-link' onClick={() => navigator('/employees')} style={{ position: 'absolute', top: '10px', left: '10px', color: 'var(--primary-blue)', textDecoration: 'none' }}>&larr; Back to List</button>
                  <h3 className='card-header text-center'>Employee Information</h3>
                  <div className='card-body'>
                      <div className="row">
