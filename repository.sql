@@ -1,6 +1,0 @@
-CREATE TABLE employee(
-	id INT PRIMARY KEY,
-	name VARCHAR(100),
-	age VARCHAR(100),
-	role VARCHAR(100)
-);
